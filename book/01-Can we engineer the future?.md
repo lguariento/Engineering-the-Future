@@ -1,12 +1,3 @@
-# Engineering the Future ss
-# Digital Design Weekend 2016
-
-## Eds: Irini Papadimitriou, Andrew Prescott, Jon Rogers
- 
-
-### Design is the soul of engineering. Joel Moses
-
-
 ## Can we Engineer the Future? 
 ## Jon Rogers 
 
