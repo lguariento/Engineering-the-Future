@@ -1,5 +1,5 @@
-test *one* <sup>h</sup>
+test *one* <sup>1</sup>
 
 ----
 
-[^1]: hello
+1: hello
