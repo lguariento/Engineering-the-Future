@@ -1,5 +1,5 @@
 # Engineering-the-Future
 
-This is a [^1]
+This is a [^first]
 
-[1]: footnote
+[^first]: footnote
