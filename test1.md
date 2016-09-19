@@ -1,4 +1,4 @@
-test *one* [^1]
+test *one* <sup>h</sup>
 
 ----
 
