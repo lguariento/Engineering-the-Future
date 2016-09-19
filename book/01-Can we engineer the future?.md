@@ -1,5 +1,6 @@
 ## Can we Engineer the Future? 
-## Jon Rogers 
+## Jon Rogers
+
 
 What a ridiculously lovely notion – to engineer our future. As a young engineer I  was given the task of controlling the level of water in a water tank that was continually being topped up. I had to understand both the rate of flow of current change, the amount of water stored  and the history of change. Water, a simple molecule made of two basic elements, in a square predictable tank with a simple valve to release it. And I struggled. It was a fantastic way of teaching me about calculus in action. To engineer our future, we need to be able to predict it, to create feedback loops to the past and to design processes that interact between the past and the future to create useful and meaningful outputs.   A tad more difficult than controlling the level of water in a tank.  And while Newtonian mechanics were able to come to hand, I’m fairly sure we’re entering the realms of science fiction when we start to think we can *Engineer The Future*.
 
