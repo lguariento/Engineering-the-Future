@@ -6,7 +6,7 @@ J – What kind of experiences did you have in India and Anstruther that made yo
 
 M – I did like how over those two events there was an openness with knowledge… there was also a real willingness to share knowledge or support across multiple projects – so if someone was like I need someone who can programme code… I thought it was quite fluid and supportive and I think that same openness with knowledge was also true in our interactions with all the crafts people we met in India. They were very generous with showing the process and showing what they made, even in Anstruther too. Your experiences on the boat it seemed that people were very forthcoming with just the knowledge of how a boat works and again on the farm it felt very generous with sharing how that process is. I think that openness to share knowledge wasn’t in the way that, you know, we’re trying to take that on as a profession, but rather, look into this world of mine, this is something I know a lot about and I see you are curious so I’m gonna share – I think that spirit took shape in a lot of different forms in the events.
 
-J – Could you see, I’m trying to think how would IoT map onto that and where would the spaces for digital be in places like Indian craft? Because one of the tensions I felt was that with development, and with new ways of making and ways of living, a lot of things were being lost. It’s a really tough question – how could the digital open up vistas for people who are in rural locations to have new channels to sell their work? That being one thing and thinking about the kinds of things that the craftspeople make – it’s not a template, but definitely a series of designs that have been made for decades and patterns that are reproduced meaning that there is a limited market for that if we’re thinking about how this could be something to export for example, new ways for them to make money – Sean<sup><a href="#fn1" id="fnref1">[1]</a></sup> and I have been thinking about pottery that feels quite western, but that has the traditional Indian oil lamps or diyas as part of them. And by sending these back to India we’re starting a conversation about what this could mean and I can see there would be a place potentially for IoT there to aid communication and nuanced exchange of information about how things are being made, maybe.
+J – Could you see, I’m trying to think how would IoT map onto that and where would the spaces for digital be in places like Indian craft? Because one of the tensions I felt was that with development, and with new ways of making and ways of living, a lot of things were being lost. It’s a really tough question – how could the digital open up vistas for people who are in rural locations to have new channels to sell their work? That being one thing and thinking about the kinds of things that the craftspeople make – it’s not a template, but definitely a series of designs that have been made for decades and patterns that are reproduced meaning that there is a limited market for that if we’re thinking about how this could be something to export for example, new ways for them to make money – Sean<sup><a href="#fn1" id="fnref1">1</a></sup> and I have been thinking about pottery that feels quite western, but that has the traditional Indian oil lamps or diyas as part of them. And by sending these back to India we’re starting a conversation about what this could mean and I can see there would be a place potentially for IoT there to aid communication and nuanced exchange of information about how things are being made, maybe.
 
 M – Yeah, like what are the craftsman to craftsman exchanges that are there if you and Sean represent a different location? Maybe there’s new ways for IoT to become a bridge to share that knowledge if it goes back to this idea of genuine interest and exchange of practice and approach and methods and all that. I can imagine it being a way to facilitate that, I don’t know what shape that takes, but…
 
@@ -48,11 +48,11 @@ M – These are the algorithmically assisted pots… these are the…
 
 J – That would be such a great project to do in India and see how the craftspeople would take to it or not and how they would bring their expertise to defining what the technology would be, what the wearables would be…
 
-M – I can imagine doing something cool with them where there’s different modes, and I’m jumping to all these different technologies it’s interesting to see what would be available. We have this 360 degree recording like what Rory[^second] was doing, we have 3D scanning and all the different haptic tools that seem to be coming together – actually there’s quite a lot of accessible technologies that you can probably do in a low cost way with the crafts people there.
+M – I can imagine doing something cool with them where there’s different modes, and I’m jumping to all these different technologies it’s interesting to see what would be available. We have this 360 degree recording like what Rory<sup><a href="#fn2" id="fnref2">2</a></sup> was doing, we have 3D scanning and all the different haptic tools that seem to be coming together – actually there’s quite a lot of accessible technologies that you can probably do in a low cost way with the crafts people there.
 
 J – We should pursue this, it would be so exciting to have IoT that would do something in these spaces where it isn’t just an addition to all the tech people have already got, but it would be something really different for people and could potentially make a real economic difference.
 
-M – And there was something I found interesting when we interviewed farmers on Tobie’s estate[^third], it was like the thing they were looking for wasn’t more efficiency or more technology to go with their farming equipment, they were already covered there, but they were really looking for genuine ways to connect to the sea orientated village and that I found quite interesting. I’ve seen that come up in other kinds of research and projects where neighbourhoods have been asked to design smart solutions etc. And what often comes up is that we don’t want more efficiency we want more social connection or more social character.
+M – And there was something I found interesting when we interviewed farmers on Tobie’s estate<sup><a href="#fn3" id="fnref3">3</a></sup>, it was like the thing they were looking for wasn’t more efficiency or more technology to go with their farming equipment, they were already covered there, but they were really looking for genuine ways to connect to the sea orientated village and that I found quite interesting. I’ve seen that come up in other kinds of research and projects where neighbourhoods have been asked to design smart solutions etc. And what often comes up is that we don’t want more efficiency we want more social connection or more social character.
 
 J – More poetics probably a lot of the time too.
 
@@ -84,7 +84,7 @@ M – That’s risky!
 
 J – But really fascinating.
 
-M – I think I learned so much from India, from that event and I really have to thank Babitha[^fourth] for being a really great role model in an approach that is like self directed group creativity, because I came much more from this school of group facilitation where it’s probably overly facilitated. And I think there’s a time and place. There are groups where you need that level of coordination to get somewhere and other groups that have a sense of purpose and agency and more than anything you want to get out of the way! And so how do you like help to create that space and get out of the way? What’s the role to be supportive? Guidance where necessary, unblocking where necessary, but also out of the way for people to be full agents.
+M – I think I learned so much from India, from that event and I really have to thank Babitha<sup><a href="#fn4" id="fnref4">4</a></sup> for being a really great role model in an approach that is like self directed group creativity, because I came much more from this school of group facilitation where it’s probably overly facilitated. And I think there’s a time and place. There are groups where you need that level of coordination to get somewhere and other groups that have a sense of purpose and agency and more than anything you want to get out of the way! And so how do you like help to create that space and get out of the way? What’s the role to be supportive? Guidance where necessary, unblocking where necessary, but also out of the way for people to be full agents.
 
 J – Yes, I see that you need to look to the person organising to give some structure to begin with, because structure can be useful as a ‘way in’ and then it’s how do you facilitate people feeling like they have an ownership of what’s happening I guess.
 
@@ -100,7 +100,7 @@ M – I’d like to do more. I’d like to think of it more as a very circuitous
 
 J – I think it’s completely that and I think people couldn’t help but get something out of it. And it seems to be that thing of how much you put in seems to be proportionate to how much you get out of it as well, but I think again it’s that openness – people to be open to give their time and openness to see what happens without having any major agenda, I think it’s a really healthy thing.
 
-M – That openness to the unexpected and trust as well I think. Now having participated in two of them and also having worked with Jon[^fifth] for many years do you have a sense of just personally where for you is an interesting place to explore next or try next broadly in these themes?
+M – That openness to the unexpected and trust as well I think. Now having participated in two of them and also having worked with Jon<sup><a href="#fn5" id="fnref5">5</a></sup>] for many years do you have a sense of just personally where for you is an interesting place to explore next or try next broadly in these themes?
 
 J – The thing I’m trying to think about personally is this notion of ongoingness through the digital. So, rather than us having these kind of pockets of periods of our life, or pockets where there are certain relationships with people – and this links to work I’ve been doing with people with dementia and people at end of life, but thinking about how, rather then seeing experience as before, current and after, how the digital can kind of weave these things together. So that’s definitely a lens that I’m looking at things through – so whether that’s in India, thinking about the crafts communities… So, it’s not about looking back, I’m trying to think how can the digital, I’m not making much sense Michelle I’m sorry!
 
@@ -110,7 +110,7 @@ J – For instance I was thinking if you think about mortality and the finite na
 
 M – That’s really nice, it’s also the affordances of digital to be a-temporal almost, or like a continuous temporality where you can have like, even if you just think about Facebook for example, it wants you to put your photos in this timeline, but actually all those photos are existing concurrently from ten years ago to now and you can access and experience them all in the same moment.
 
-J – Yeah. There is an artist called Moira Ricci, she’s an Italian photographer primarily and she did a piece of work that took all these photos from her family archive when her mother had died[^sixth]. She put herself at the age that she is now and dressed in the period of that photograph but she appeared as an adult in the photographs when her mother was a child, and the same age as her mother at parties in the 60s and she did it really brilliantly and she really looks like she is there.
+J – Yeah. There is an artist called Moira Ricci, she’s an Italian photographer primarily and she did a piece of work that took all these photos from her family archive when her mother had died<sup><a href="#fn6" id="fnref6">6</a></sup>. She put herself at the age that she is now and dressed in the period of that photograph but she appeared as an adult in the photographs when her mother was a child, and the same age as her mother at parties in the 60s and she did it really brilliantly and she really looks like she is there.
 
 M – It really fits.
 
@@ -128,7 +128,7 @@ M – And how much social stress that causes!
 
 J – Completely.
 
-M – We also had an event in Berlin[^seventh] and it was based on some research that one of Babitha’s colleagues had done where she visited four  or five different homes in Bangalore and had got some stories that we responded to. Two of the four projects were about memory and recording and accessing and engaging with memory that happens in the home. One of the objects that was kind of inspiration was one woman had talked about this baby book that she had from her first born and had really recorded all the details of first words and first steps and scraps and then she had her second kid and had all this guilt for not archiving, but you could tell these books were some of her prized possessions. And her kids, now that they’re older really treasured them, which also makes you think ‘yeah, as a kind of object or inspiration, you know, I’ve really treasured the events in Anstruther and India and all those things’. How may we have ways to say that they (and Tommy’s[^eighth] book is one way), but how do we have other ways to say they were important? There’s something nice there.
+M – We also had an event in Berlin<sup><a href="#fn7" id="fnref7">7</a></sup> and it was based on some research that one of Babitha’s colleagues had done where she visited four  or five different homes in Bangalore and had got some stories that we responded to. Two of the four projects were about memory and recording and accessing and engaging with memory that happens in the home. One of the objects that was kind of inspiration was one woman had talked about this baby book that she had from her first born and had really recorded all the details of first words and first steps and scraps and then she had her second kid and had all this guilt for not archiving, but you could tell these books were some of her prized possessions. And her kids, now that they’re older really treasured them, which also makes you think ‘yeah, as a kind of object or inspiration, you know, I’ve really treasured the events in Anstruther and India and all those things’. How may we have ways to say that they (and Tommy’s<sup><a href="#fn8" id="fnref8">8</a></sup> book is one way), but how do we have other ways to say they were important? There’s something nice there.
 
 J – It’s harder to think how you create that embodiment of the value that you felt in something when it’s transient isn’t it? But there’s a lot that we might not be able to touch but… yeah, interesting. I’m always keeping sketchbooks and notebooks where you finish them and move on to the next one – have you ever looked through old ones? These whole worlds open up in front of you of all the things you were thinking about and things that were happening and the things that you say ‘oh, why didn’t I do that idea?’
 
@@ -136,13 +136,15 @@ M – I know they come with their own set of like nostalgia and regrets.
 
 J – Like you were saying in a sense with the ‘digital notebooks’, everything that we’re doing, all the photographs, recordings all the rest of it, if we thought of that as the same kind of ‘being ongoing’ then that could feel more like lots of layers rather than discrete events.
 
-M – There was a really nice project that Google did actually that was a physical notebook[^ninth] that connected to the web and you could interact with the notebook and it would access different content on this site: videos and text and all that. I really liked it because you had the permanence of this one object, this little interface that felt very easy to use – it had a pen, this stylus, but then the content you saw was so layered. So you had the permanence of this one thing, but that let you easily go to see this richness of digital stuff. It made me think for the next event as a compliment or as a next version of having a book documentation maybe there’s a page in it that actually has a circuit in it.
+M – There was a really nice project that Google did actually that was a physical notebook<sup><a href="#fn9" id="fnref9">9</a></sup> that connected to the web and you could interact with the notebook and it would access different content on this site: videos and text and all that. I really liked it because you had the permanence of this one object, this little interface that felt very easy to use – it had a pen, this stylus, but then the content you saw was so layered. So you had the permanence of this one thing, but that let you easily go to see this richness of digital stuff. It made me think for the next event as a compliment or as a next version of having a book documentation maybe there’s a page in it that actually has a circuit in it.
 
 J – That’s really nice.
 
 M – A page that has a more dynamic archive or ongoing stuff with people still adding in stories as it continues.
 
-J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike[^tenth] doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
+J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike<sup><a href="#fn10" id="fnref10">10</a></sup> doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
+
+Images: please see text version with images incl captions/credits in folder 
 
 <hr class="footnotes-sep">
 <section class="footnotes">
@@ -151,17 +153,21 @@ J – It would be lovely to have some of the pages that have got some audio as w
 </li>
 <li id="fn2" class="footnote-item"><p>Rory Hamilton, Interaction & Service Designer at Copenhagen Institute of Interaction Design<a href="#fnref2" class="footnote-backref">↩</a></p>
 </li>
+<li id="fn3" class="footnote-item"><p>Tobie Anstruther, Balcaskie Estate, East Neuk, Fife. Host during the Open Internet of Things Lab, Anstruther.<a href="#fnref3" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>Babitha George, Quicksand Design Consultancy, India. Co-founder of Unbox and co-organiser of the Unbox Labs Caravan.<a href="#fnref4" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>Sean Kingsley, Potter and Collaborator, Duncan of Jordanstone College of Art and Design, University of Dundee.<a href="#fnref5" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.<a href="#fnref6" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn7" class="footnote-item"><p>ThingsCon, Berlin, 2016.<a href="#fnref7" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn8" class="footnote-item"><p>Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn9" class="footnote-item"><p>"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn10" class="footnote-item"><p>Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10" class="footnote-backref">↩</a></p>
+</li>
 </ol>
 </section>
-
-[^third]: Tobie Anstruther, Balcaskie Estate, East Neuk, Fife. Host during the Open Internet of Things Lab, Anstruther.
-[^fourth]: Babitha George, Quicksand Design Consultancy, India. Co-founder of Unbox and co-organiser of the Unbox Labs Caravan.
-[^fifth]: Jon Rogers, Professor of Creative Technology at Duncan of Jordanstone College of Art and Design, University of Dundee and Fellow at Mozilla Foundation.
-[^sixth]: The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.
-[^seventh]: ThingsCon, Berlin, 2016.
-[^eighth]: Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.
-[^ninth]: "Think with Google" http://rolandellis.uk/go.html 
-[^tenth]: Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.
-
-
-Images: please see text version with images incl captions/credits in folder 
