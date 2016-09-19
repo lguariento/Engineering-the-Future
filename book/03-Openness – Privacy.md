@@ -157,7 +157,7 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn4" class="footnote-item"><p>Babitha George, Quicksand Design Consultancy, India. Co-founder of Unbox and co-organiser of the Unbox Labs Caravan.<a href="#fnref4" class="footnote-backref">↩</a></p>
 </li>
-<li id="fn5" class="footnote-item"><p>Sean Kingsley, Potter and Collaborator, Duncan of Jordanstone College of Art and Design, University of Dundee.<a href="#fnref5" class="footnote-backref">↩</a></p>
+<li id="fn5" class="footnote-item"><p>Jon Rogers, Professor of Creative Technology at Duncan of Jordanstone College of Art and Design, University of Dundee and Fellow at Mozilla Foundation.<a href="#fnref5" class="footnote-backref">↩</a></p>
 </li>
 <li id="fn6" class="footnote-item"><p>The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.<a href="#fnref6" class="footnote-backref">↩</a></p>
 </li>
