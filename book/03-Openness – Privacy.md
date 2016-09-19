@@ -144,7 +144,6 @@ M – A page that has a more dynamic archive or ongoing stuff with people still 
 
 J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike[^tenth] doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
 
----
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
