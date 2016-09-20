@@ -147,8 +147,6 @@ M – A page that has a more dynamic archive or ongoing stuff with people still 
 
 J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike<[<sup>10</sup>](#fn10)<a id="fnref10"> doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
 
-[↩](#fnref8)
-
 Images: please see text version with images incl captions/credits in folder 
 
 <hr>
@@ -167,7 +165,7 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn7">ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
 </li>
-<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.[↩](#fnref8)
+<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
 </li>
 <li id="fn9">"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9">↩</a>
 </li>
