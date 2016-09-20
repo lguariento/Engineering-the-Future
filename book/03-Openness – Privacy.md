@@ -165,10 +165,10 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn7">ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
 </li>
-<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.[↩](#fnref8")
+<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.[↩](#fnref8)
 </li>
 <li id="fn9">"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9">↩</a>
 </li>
-<li id="fn10"><p>Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
+<li id="fn10">Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
 </li>
 </ol>
