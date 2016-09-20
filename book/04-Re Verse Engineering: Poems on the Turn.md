@@ -86,9 +86,8 @@ If the definition isn't good enough I am not sure I can enhance the Xisto one bu
 
 > The truth is that the eyes and the fingers the bare fingers are the two principal inlets to sound practical instruction. They are the chief sources of trustworthy knowledge in all the materials and operations which the engineer has to deal with. No look knowledge can avail for that purpose. The nature and properties of the materials must come in through the finger ends. Hence, I have no faith in young engineers who are addicted to wearing gloves. Gloves, especially kid gloves, are perfect non- conductors of technical knowledge.
 						James Nasmyth, Autobiography (1883)
-
-<hr>
-11. <p id="fn11">Ernest Edmonds, “Moving Between Poetry and Code”, in *Visualise: MAKING ART IN CONTEXT*, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71.<a href="#fnref11">↩</a>
+						
+<hr>11. <p id="fn11">Ernest Edmonds, “Moving Between Poetry and Code”, in _Visualise: MAKING ART IN CONTEXT_, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71.<a href="#fnref11">↩</a>
 12. <p id="fn12">T. E. Hulme, “Romanticism and Classicism”, in _Speculations_, ed Herbert Read (New York: Harcourt, Brace 1924) pp121-122.<a href="#fnref12">↩</a>
 13. <p id="fn13">John Cage, interview with Jeff Goldberg in _Transatlantic Review_, 55/56. Ed J.F. McCrindle (1972). pp103-110.<a href="#fnref13">↩</a>
 14. <p id="fn14">Décio Pignatari, “The Concrete Poets of Brazil” in _Times Literary Supplement Any Advance? The Changing Guard 2_, ed John Willett (Times Publishing 1964) and downloadable at:
