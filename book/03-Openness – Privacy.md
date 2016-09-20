@@ -149,6 +149,8 @@ J – It would be lovely to have some of the pages that have got some audio as w
 
 Images: please see text version with images incl captions/credits in folder 
 
+<h1 style=color:red;>hello</h1>
+
 <hr>
 <ol>
 <li id="fn1">Sean Kingsley, Potter and Collaborator, Duncan of Jordanstone College of Art and Design, University of Dundee.<a href="#fnref1">↩</a>
@@ -167,8 +169,8 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
 </li>
-<li style=color:red; id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
+<li id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
 </li>
-<li id="fn10"Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
+<li id="fn10">Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
 </li>
 </ol>
