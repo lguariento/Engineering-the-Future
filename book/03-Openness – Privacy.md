@@ -145,7 +145,7 @@ J – That’s really nice.
 
 M – A page that has a more dynamic archive or ongoing stuff with people still adding in stories as it continues.
 
-J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike<[<sup>10</sup>](#fn10)<a id="fnref10"> doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
+J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike[<sup>10</sup>](#fn10)<a id="fnref10"> doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
 
 Images: please see text version with images incl captions/credits in folder 
 
@@ -167,7 +167,7 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
 </li>
-<li id="fn9">"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9">↩</a>
+<li id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
 </li>
 <li id="fn10">Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
 </li>
