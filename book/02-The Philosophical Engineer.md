@@ -1,7 +1,9 @@
 -------------------------------------------------------------------------------------
 ## The Philosophical Engineer
-## Andrew Prescott
-
+*Andrew Prescott*
+<br />
+<br />
+<br />
 The Scottish scientist, engineer and inventor James Watt (1736-1819) is remembered chiefly as a pioneer of steam power, who improved the efficiency of steam engines by inventing a separate condenser, devised revolutionary steam-powered mechanical drives, and introduced the concept that steam power could be measured by reference to the power of horses. Watt’s achievements as ‘The Great Steamer’ were fundamental to the Industrial Revolution.
 
 Watt had a restless curiosity that led him into all types of experiments and inventions. He invented a machine to make it easier to produce perspective drawings. At the time of his death, he was working on machines to copy sculptures that seem like an analogue form of 3D printing. Watt developed and marketed the first apparatus to produce duplicate copies of handwritten documents using chemically impregnated paper. He made musical instruments and invented new types of clocks. A pioneering chemist, Watt experimented with processes to produce alkali from sea-salt, and claimed to have been among the first to realise that water was a chemical compound.
