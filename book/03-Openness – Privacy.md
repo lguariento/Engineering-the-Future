@@ -150,27 +150,25 @@ J – It would be lovely to have some of the pages that have got some audio as w
 Images: please see text version with images incl captions/credits in folder 
 
 <hr>
-<section>
 <ol>
-<li id="fn1"><p>Sean Kingsley, Potter and Collaborator, Duncan of Jordanstone College of Art and Design, University of Dundee.<a href="#fnref1">↩</a></p>
+<li id="fn1">Sean Kingsley, Potter and Collaborator, Duncan of Jordanstone College of Art and Design, University of Dundee.<a href="#fnref1">↩</a>
 </li>
-<li id="fn2"><p>Rory Hamilton, Interaction & Service Designer at Copenhagen Institute of Interaction Design<a href="#fnref2">↩</a></p>
+<li id="fn2">Rory Hamilton, Interaction & Service Designer at Copenhagen Institute of Interaction Design<a href="#fnref2">↩</a>
 </li>
-<li id="fn3"><p>Tobie Anstruther, Balcaskie Estate, East Neuk, Fife. Host during the Open Internet of Things Lab, Anstruther.<a href="#fnref3">↩</a></p>
+<li id="fn3">Tobie Anstruther, Balcaskie Estate, East Neuk, Fife. Host during the Open Internet of Things Lab, Anstruther.<a href="#fnref3">↩</a>
 </li>
-<li id="fn4"><p>Babitha George, Quicksand Design Consultancy, India. Co-founder of Unbox and co-organiser of the Unbox Labs Caravan.<a href="#fnref4">↩</a></p>
+<li id="fn4">Babitha George, Quicksand Design Consultancy, India. Co-founder of Unbox and co-organiser of the Unbox Labs Caravan.<a href="#fnref4">↩</a>
 </li>
-<li id="fn5"><p>Jon Rogers, Professor of Creative Technology at Duncan of Jordanstone College of Art and Design, University of Dundee and Fellow at Mozilla Foundation.<a href="#fnref5">↩</a></p>
+<li id="fn5">Jon Rogers, Professor of Creative Technology at Duncan of Jordanstone College of Art and Design, University of Dundee and Fellow at Mozilla Foundation.<a href="#fnref5">↩</a></p>
 </li>
-<li id="fn6"><p>The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.<a href="#fnref6">↩</a></p>
+<li id="fn6">The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.<a href="#fnref6">↩</a>
 </li>
-<li id="fn7"><p>ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a></p>
+<li id="fn7">ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
 </li>
-<li id="fn8"><p>Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a></p>
+<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
 </li>
-<li id="fn9"><p>"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9">↩</a></p>
+<li id="fn9">"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9">↩</a>
 </li>
-<li id="fn10"><p>Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a></p>
+<li id="fn10"><p>Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
 </li>
 </ol>
-</section>
