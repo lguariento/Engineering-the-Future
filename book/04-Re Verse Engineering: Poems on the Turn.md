@@ -1,6 +1,8 @@
 ## Re Verse Engineering: Poems on the Turn. 
 _Bronac Ferran_
-
+<br />
+<br />
+<br />
 Researching a series of text-related events and exhibitions relating to the 1950s and 1960s has led me to recognize that the emergence of computers, or computational thinking[<sup>11</sup>](#fn11)<a id="fnref11"> had strong parallels and interconnections with the form and content of concrete poetry works. The form of the concrete poem was open to inventiveness, pliability and malleability yet simultaneously encouraged intensive concentration by the viewer or listener. It allowed us to move in, contemplatively as well as to look out at the white spaces between words and around them. Revisiting these sometimes overlooked poetic constructs can offer a space for considering an idea of the pre-digital after years of exposure to digital visual overload.  If the idea of post-digital holds, then might not recognising the pre-digital also? This text begins to look back through the lens of interrelations between poetry and early computing. It interleaves some thoughts on discovering and inventing.
 
 ### 1. On Discovering
