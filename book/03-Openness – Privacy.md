@@ -165,7 +165,7 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn7">ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
 </li>
-<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
+<li id="fn8"><p>Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.[↩](#fnref8) <a href="#fnref8">↩</a></p>
 </li>
 <li id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
 </li>
