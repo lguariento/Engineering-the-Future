@@ -159,13 +159,13 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn4">Babitha George, Quicksand Design Consultancy, India. Co-founder of Unbox and co-organiser of the Unbox Labs Caravan.<a href="#fnref4">↩</a>
 </li>
-<li id="fn5">Jon Rogers, Professor of Creative Technology at Duncan of Jordanstone College of Art and Design, University of Dundee and Fellow at Mozilla Foundation.<a href="#fnref5">↩</a></p>
+<li id="fn5">Jon Rogers, Professor of Creative Technology at Duncan of Jordanstone College of Art and Design, University of Dundee and Fellow at Mozilla Foundation.<a href="#fnref5">↩</a>
 </li>
 <li id="fn6">The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.<a href="#fnref6">↩</a>
 </li>
 <li id="fn7">ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
 </li>
-<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
+<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.[↩](#fnref8")
 </li>
 <li id="fn9">"Think with Google" http://rolandellis.uk/go.html<a href="#fnref9">↩</a>
 </li>
