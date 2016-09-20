@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {color:red;}
-p {color:blue;}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
 ## Openness – Privacy
 *Jayne Wallace & Michelle Thorne*
 <br />
@@ -183,7 +167,7 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
 </li>
-<li id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
+<li style=color:red; id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
 </li>
 <li id="fn10"Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
 </li>
