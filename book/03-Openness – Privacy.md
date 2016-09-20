@@ -1,7 +1,5 @@
 ## Openness – Privacy
-*Jayne Wallace & Michelle Thorne*
-
-
+*Jayne Wallace & Michelle Thorne*  
 
 A conversation between Jayne Wallace (Reader in Craft Futures at Northumbria University) and Michelle Thorne (Lead, Mozilla’s Open Internet of Things Studio at Mozilla Foundation) following The UnBox LABS: Caravan, NID, Ahmedabad, India, February 2016 and The Mozilla Foundation: Open Internet of Things Lab, Anstruther, UK, June 2016.
 
