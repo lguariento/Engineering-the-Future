@@ -1,25 +1,3 @@
-<!doctype html>
-
-<html><head>
-
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-    .markdown-body {
-        box-sizing: border-box;
-        min-width: 200px;
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 45px;
-    }
-</style> 
-</head>
-
-<article class="markdown-body">
-    <h1>Unicorns</h1>
-    <p>All the things</p>
-</article>
-
-
 ## Can we Engineer the Future?
 *Jon Rogers*
 
@@ -33,5 +11,3 @@ The social operational distance between writers, artists, designers and engineer
 This narrowing of the distance between those that imagine the future and those that build the future has started to yield some distinct changes. The history of how we acquired our knowledge, our trade so to speak, is less important than the work we are doing. A creative technologist could have a PhD in engineering or a portfolio of digital art. A design agency can work with the materiality of artificial intelligence. The nature of privacy of global digital practice can be questioned by a jeweler.  
 
 Can we Engineer our Future? I don’t know. I do know one thing though, that we’re living in a future that we have already engineered.  The challenges that face us now are not about the capability of what we can do, it’s more how we can do it. That sharing of knowledge leads to the creation of new knowledge. That there are futures that can only be engineered by collaboration across disciplines. That the future is coming is certain, but what that future is will be largely decided by the way in which we can work. That the biggest challenge facing engineering might come from the way we think what engineering is rather than what engineering does. Either way, I love the beautifully ridiculous challenge that a future is out there that we can engineer! 
-
-</html>
