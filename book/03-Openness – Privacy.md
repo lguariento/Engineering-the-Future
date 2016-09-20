@@ -1,9 +1,7 @@
 ## Openness – Privacy
 *Jayne Wallace & Michelle Thorne*
-<br />
-<br />
-<br />
-A conversation between Jayne Wallace (Reader in Craft Futures at Northumbria University) and Michelle Thorne (Lead, Mozilla’s Open Internet of Things Studio at Mozilla Foundation) following The UnBox LABS: Caravan, NID, Ahmedabad, India, February 2016 and The Mozilla Foundation: Open Internet of Things Lab, Anstruther, UK, June 2016.
+
+  A conversation between Jayne Wallace (Reader in Craft Futures at Northumbria University) and Michelle Thorne (Lead, Mozilla’s Open Internet of Things Studio at Mozilla Foundation) following The UnBox LABS: Caravan, NID, Ahmedabad, India, February 2016 and The Mozilla Foundation: Open Internet of Things Lab, Anstruther, UK, June 2016.
 
 J – What kind of experiences did you have in India and Anstruther that made you reflect on what the IoT could be?
 
@@ -163,12 +161,12 @@ Images: please see text version with images incl captions/credits in folder
 </li>
 <li id="fn6">The work being referred to is ‘20.12.53 - 10.08.04’ by Moira Ricci.<a href="#fnref6">↩</a>
 </li>
-<li id="fn7">  ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
+<li id="fn7">ThingsCon, Berlin, 2016.<a href="#fnref7">↩</a>
 </li>
-<li id="fn8">  Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
+<li id="fn8">Artist and Designer Tommy Perman documented the Open Internet of Things Lab in a beautiful book.<a href="#fnref8">↩</a>
 </li>
-<li id="fn9">  "Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
+<li id="fn9">"Think with Google" http://rolandellis.uk/go.html.<a href="#fnref9">↩</a>
 </li>
-<li id="fn10">  Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
+<li id="fn10"Mike Shorter, Uniform Design. Currently completing a PhD exploring emergent technologies including printmaking with conductive ink.<a href="#fnref10">↩</a>
 </li>
 </ol>
