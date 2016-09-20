@@ -88,11 +88,10 @@ If the definition isn't good enough I am not sure I can enhance the Xisto one bu
 						James Nasmyth, Autobiography (1883)
 
 <hr>
-<ol>
-<li id="fn11">Ernest Edmonds, “Moving Between Poetry and Code”, in *Visualise: MAKING ART IN CONTEXT*, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71. 
+
+11. <p id="fn11">Ernest Edmonds, “Moving Between Poetry and Code”, in *Visualise: MAKING ART IN CONTEXT*, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71. 
 .<a href="#fnref11">↩</a>
-</li>
-<li id="fn12">T. E. Hulme, “Romanticism and Classicism”, in _Speculations_, ed Herbert Read (New York: Harcourt, Brace 1924) pp121-122.<a href="#fnref12">↩</a>
+12. <p id="fn12">T. E. Hulme, “Romanticism and Classicism”, in _Speculations_, ed Herbert Read (New York: Harcourt, Brace 1924) pp121-122.<a href="#fnref12">↩</a>
 </li>
 <li id="fn13">John Cage, interview with Jeff Goldberg in _Transatlantic Review_, 55/56. Ed J.F. McCrindle (1972). pp103-110.<a href="#fnref13">↩</a>
 </li>
