@@ -3,7 +3,7 @@
 <br />
 <br />
 <br />
-A conversation between Jayne Wallace (Reader in Craft Futures at Northumbria University) and Michelle Thorne (Lead, Mozilla’s Open Internet of Things Studio at Mozilla Foundation) following The UnBox LABS: Caravan, NID, Ahmedabad, India, February 2016 and The Mozilla Foundation: Open Internet of Things Lab, Anstruther, UK, June 2016.
+<p style=text-align:justify;>A conversation between Jayne Wallace (Reader in Craft Futures at Northumbria University) and Michelle Thorne (Lead, Mozilla’s Open Internet of Things Studio at Mozilla Foundation) following The UnBox LABS: Caravan, NID, Ahmedabad, India, February 2016 and The Mozilla Foundation: Open Internet of Things Lab, Anstruther, UK, June 2016.
 
 J – What kind of experiences did you have in India and Anstruther that made you reflect on what the IoT could be?
 
@@ -148,8 +148,6 @@ M – A page that has a more dynamic archive or ongoing stuff with people still 
 J – It would be lovely to have some of the pages that have got some audio as well from the week. We could have Mike[<sup>10</sup>](#fn10)<a id="fnref10"> doing his conductive ink. Could have a load of things being captured over the event and you don’t know which one it is you’re getting in your book…
 
 Images: please see text version with images incl captions/credits in folder 
-
-<h1 style=color:red;>hello</h1>
 
 <hr>
 <ol>
