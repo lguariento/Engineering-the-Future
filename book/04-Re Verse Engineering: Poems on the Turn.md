@@ -90,20 +90,20 @@ If the definition isn't good enough I am not sure I can enhance the Xisto one bu
 ___
 
 <ol start="11">
-<li id="fn11">Ernest Edmonds, “Moving Between Poetry and Code”, in _Visualise: MAKING ART IN CONTEXT_, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71.<a href="#fnref11">↩</a></li>
-<li id="fn12">T. E. Hulme, “Romanticism and Classicism”, in _Speculations_, ed Herbert Read (New York: Harcourt, Brace 1924) pp121-122.<a href="#fnref12">↩</a></li>
-<li id="fn13">John Cage, interview with Jeff Goldberg in _Transatlantic Review_, 55/56. Ed J.F. McCrindle (1972). pp103-110.<a href="#fnref13">↩</a></li>
-<li id="fn14">Décio Pignatari, “The Concrete Poets of Brazil” in _Times Literary Supplement Any Advance? The Changing Guard 2_, ed John Willett (Times Publishing 1964) and downloadable at:
+<li id="fn11">Ernest Edmonds, “Moving Between Poetry and Code”, in <i>Visualise: MAKING ART IN CONTEXT</i>, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71.<a href="#fnref11">↩</a></li>
+<li id="fn12">T. E. Hulme, “Romanticism and Classicism”, in <i>Speculations</i>, ed Herbert Read (New York: Harcourt, Brace 1924) pp121-122.<a href="#fnref12">↩</a></li>
+<li id="fn13">John Cage, interview with Jeff Goldberg in <i>Transatlantic Review</i>, 55/56. Ed J.F. McCrindle (1972). pp103-110.<a href="#fnref13">↩</a></li>
+<li id="fn14">Décio Pignatari, “The Concrete Poets of Brazil” in <i>Times Literary Supplement Any Advance? The Changing Guard 2</i>, ed John Willett (Times Publishing 1964) and downloadable at:
 https://loriemersondotnet.files.wordpress.com/2011/10/astronautsofinnerspace.pdf (accessed 5.8.2016).<a href="#fnref14">↩</a></li>
-<li id="fn15">Haroldo de Campos, contribution to catalogue of _TYPOETRY_ exhibition of the work of Hansjörg Mayer, Studiengalerie, Stuttgart, ed Max Bense (1965).<a href="#fnref15">↩</a></li>
+<li id="fn15">Haroldo de Campos, contribution to catalogue of <i>TYPOETRY</i> exhibition of the work of Hansjörg Mayer, Studiengalerie, Stuttgart, ed Max Bense (1965).<a href="#fnref15">↩</a></li>
 <li id="fn16">See http://journalofdigitalhumanities.org/1-2/an-electric-current-of-the-imagination-by-andrew-prescott/ (accessed 6.8.2016).<a href="#fnref16">↩</a></li>
 <li id="fn17">Notes in Lovelace’s hand with her translation from the French of article on the Analytical Engine by Luigi Menabrea (1843). See http://www.computerhistory.org/babbage/adalovelace/ (accessed 5.8.2016).<a href="#fnref17">↩</a></li>
 <li id="fn18">Friedrich Hölderlin, from The Oldest System-Program of German Idealism. http://ebooks.cambridge.org/chapter.jsf?bid=CBO9780511803734&cid=CBO9780511803734A013 (accessed 5.8.2016).<a href="#fnref18">↩</a></li>
-<li id="fn19">"Quentin Mellassoux, “_The Number and the Siren: A Decipherment of Mallarmé’s Coup de Dés_”. Trans. Robin McKay. (Falmouth Urbanomic 2012).<a href="#fnref19">↩</a></li>
+<li id="fn19">"Quentin Mellassoux, “<i>The Number and the Siren: A Decipherment of Mallarmé’s Coup de Dés</i>”. Trans. Robin McKay. (Falmouth Urbanomic 2012).<a href="#fnref19">↩</a></li>
 <li id="fn20">Dom Sylvester Houédard, “Poetry Theory & Poetry Theoria”, in THEORIA TO THEORY, Vol 1 First Quarter 1966 (The Epiphany Philosophers) pp6-9.<a href="#fnref20">↩</a></li>
 <li id="fn21">Unpublished letter from dom Sylvester Houédard to Hansjörg Mayer, October 1965.(The Epiphany Philosophers) pp6-9.<a href="#fnref21">↩</a></li>
 <li id="fn22">Il Pleut by Guillaume Apollinaire was typeset by M. Leve and first published in SIC (Son Idées Couleur) journal no 12, ed Pierre Albert-Birot (1916). <a href="#fnref22">↩</a></li>
-<li id="fn23">Cambridge Language Research Unit, “_Computerized Haiku_”, in THEORIA TO THEORY, Vol. 1 Fourth Quarter, 1967 (The Epiphany Philosophers) pp378-382.<a href="#fnref23">↩</a></li>
-<li id="fn24">Ernest Edmonds, “Moving Between Poetry and Code”, in _Visualise: MAKING ART IN CONTEXT_, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71. <a href="#fnref24">↩</a></li>
+<li id="fn23">Cambridge Language Research Unit, “<i>Computerized Haiku</i>”, in THEORIA TO THEORY, Vol. 1 Fourth Quarter, 1967 (The Epiphany Philosophers) pp378-382.<a href="#fnref23">↩</a></li>
+<li id="fn24">Ernest Edmonds, “Moving Between Poetry and Code”, in <i>Visualise: MAKING ART IN CONTEXT</i>, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71. <a href="#fnref24">↩</a></li>
 <li id="fn25">Alan Sutcliffe, “MAIN GROUNDS (anag, 5.2)” in Visualise: MAKING ART IN CONTEXT, ed Bronac Ferran (Anglia Ruskin University 2013) pp55-59.<a href="#fnref25">↩</a></li>
 </ol>
