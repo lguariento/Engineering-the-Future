@@ -106,3 +106,4 @@ https://loriemersondotnet.files.wordpress.com/2011/10/astronautsofinnerspace.pdf
 <li id="fn23">Cambridge Language Research Unit, “_Computerized Haiku_”, in THEORIA TO THEORY, Vol. 1 Fourth Quarter, 1967 (The Epiphany Philosophers) pp378-382.<a href="#fnref23">↩</a></li>
 <li id="fn24">Ernest Edmonds, “Moving Between Poetry and Code”, in _Visualise: MAKING ART IN CONTEXT_, ed Bronac Ferran (Anglia Ruskin University 2013) pp64-71. <a href="#fnref24">↩</a></li>
 <li id="fn25">Alan Sutcliffe, “MAIN GROUNDS (anag, 5.2)” in Visualise: MAKING ART IN CONTEXT, ed Bronac Ferran (Anglia Ruskin University 2013) pp55-59.<a href="#fnref25">↩</a></li>
+</ol>
