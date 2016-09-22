@@ -3,7 +3,7 @@ _Mariza Dima, Liliana Kastilo, Nandhini Narasimhan (Women Hack For Non Profits)_
 <br />
 <br />
 <br />
-Established in 2015 Women Hack For Non-Profits[<sup>26</sup>](#fn26)<id ="#fnref26"> (WHFNP) is a fast growing community of women that are looking to improve their coding, testing or design skills. What started out as a simple idea back in May 2015 by co-founders Nandhini Narasimhan and Vinita Rathi has been brought to life and grown to the wonderful community we have today.  We are over 200 coders, designers, writers, project managers and testers working on projects that are personally rewarding and contribute to the society at large.
+Established in 2015 Women Hack For Non-Profits[<sup>26</sup>](#fn26)<id="#fnref26"> (WHFNP) is a fast growing community of women that are looking to improve their coding, testing or design skills. What started out as a simple idea back in May 2015 by co-founders Nandhini Narasimhan and Vinita Rathi has been brought to life and grown to the wonderful community we have today.  We are over 200 coders, designers, writers, project managers and testers working on projects that are personally rewarding and contribute to the society at large.
 
 The software engineering sector is one of the fastest growing in the world but female representation is still rather low and there is an evident gender gap. With coding and design becoming necessary skills for shaping the future, it is important to encourage more women to enter the tech scene. By volunteering with Women Hack for Non-Profits, women can practice and grow the skills they require to help switch careers into the engineering sector, while working on real life projects and communicating with clients. As a group we help each other grow, boost self-confidence, share and exchange experiences, knowledge and best practices, and provide guidance at all levels. Starting from just a handful to over 200 volunteers, the group has grown in a very short period of time, which indicates the need for such a community. 
 
@@ -39,6 +39,6 @@ Women Hack For Non-Profits. Photo: Elizabeth Chesters
 
 <ol start="26">
 
-<li id="fn26">http://www.womenhackfornonprofits.com</li><a href="#fnref26">↩</a>
+<li id="fn26">http://www.womenhackfornonprofits.com<a href="#fnref26">↩</a></li>
 
 </ol>
