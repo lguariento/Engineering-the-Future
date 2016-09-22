@@ -28,7 +28,6 @@ Image credit:
 -	The Good Home at Fuori Salone Milano
  Both images by the Good Home 
 
---------------------------------------------------------------------------------------------------
 > An engineer? I had grown up among engineers, and I could remember the engineers of the twenties very well indeed: their open, shining intellects, their free and gentle humor, their agility and breadth of thought, the ease with which they shifted from one engineering field to another, and for that matter, from technology to social concerns and art…one of them might play a musical instrument, another dabble in painting; and their faces always bore a spiritual imprint.
-Alexander Solzhenitsyn, _The Gulag Archipelago_ (1974)
--------------------------------------------------------------------------------------------------
+
+> Alexander Solzhenitsyn, _The Gulag Archipelago_ (1974)
