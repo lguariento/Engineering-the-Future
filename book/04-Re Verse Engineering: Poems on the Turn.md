@@ -41,7 +41,7 @@ Masterman had studied philosophy with Wittgenstein and with colleagues in the CL
 Houédard was here referring to Pierre Albert-Birot, a friend of Guillaume Apollinaire whose calligrammes from earlier in the century were important influences on later visual poets. Albert-Birot’s lead printer had stayed up all night to typeset Apollinaire’s hand-drawing of Il Pleut into the form which we recognize today, first published in Albert-Birot’s journal SIC in 1916.[<sup>22</sup>](#fn22)<a id="fnref22">
 
 ### 5. ‘The difference between the concrete and the computer poet is’…
-Fifty years after Apollinaire’s premature death, poetry became part of what is acknowledged by many to be the first major exhibition of computer art, organized at the ICA in London by Jasia Reichardt, in 1968. Exhibited works included Computerised Haiku which Margaret Masterman made in collaboration with Robin McKinnon-Wood, who was a founder of another pioneering organisation called Systems Research Ltd.
+Fifty years after Apollinaire’s premature death, poetry became part of what is acknowledged by many to be the first major exhibition of computer art, organized at the ICA in London by Jasia Reichardt, in 1968. Exhibited works included _Computerised Haiku_ which Margaret Masterman made in collaboration with Robin McKinnon-Wood, who was a founder of another pioneering organisation called Systems Research Ltd.
 
 In a text published a year earlier in the journal From _Theoria_ to Theory McKinnon-Wood and Masterman had given an extended account of their hypothesis and experiments:[<sup>23</sup>](#fn23)<a id="fnref23">
 
@@ -60,7 +60,7 @@ They end with an amusing yet serious summary of differences between the concrete
 
 ### 6. Revealed in the turn
 
-In 2012 I had the opportunity to curate an exhibition to coincide with the centenary of Alan Turing’s birthday, which I called Poetry, Language, Code. Among works included were several by Ernest Edmonds including concrete poems from 1967 and a print out of a computer programme he wrote using FORTRAN in 1968, juxtaposition of which demonstrated intriguing parallels and differences. Writing later about making ‘concrete poem collages’ Edmonds has described how his work evolved from making simple, constructive, rules based poems on a typewriter to a more complex set of works using code from around 1968: ‘the structure and the computation became all. The poetry was in the code’.[<sup>24</sup>](#fn24)<a id="fnref24">
+In 2012 I had the opportunity to curate an exhibition to coincide with the centenary of Alan Turing’s birthday, which I called _Poetry, Language, Code_. Among works included were several by Ernest Edmonds including concrete poems from 1967 and a print out of a computer programme he wrote using FORTRAN in 1968, juxtaposition of which demonstrated intriguing parallels and differences. Writing later about making ‘concrete poem collages’ Edmonds has described how his work evolved from making simple, constructive, rules based poems on a typewriter to a more complex set of works using code from around 1968: ‘the structure and the computation became all. The poetry was in the code’.[<sup>24</sup>](#fn24)<a id="fnref24">
 
 The exhibition tried to reveal the important materiality of early code works and so included also a print out of POEM FOR SPASMO composed in 1969 by the late Alan Sutcliffe, one of the founders of the Computer Arts Society, using an ICL 1904. At the top of what looks like a programme written for a computer is printed in tiny lettering 
 
