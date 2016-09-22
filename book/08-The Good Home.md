@@ -21,7 +21,7 @@ In practice, the ways we live has been changing rapidly due to changing economic
  
 As a society, we need more experimentation and debate to shape both these technologies as well as our larger concepts of better living for the 21st century.
  
-With the Good Home, we hope to make some small contributions to this debate.
+With the _Good Home_, we hope to make some small contributions to this debate.
 
 Image credit: 
 -	MozFest HomeLab Kitchen, 2015
