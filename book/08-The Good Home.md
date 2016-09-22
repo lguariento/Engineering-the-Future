@@ -1,6 +1,8 @@
 ## The Good Home
 _Alex Deschamps-Sonsino & Peter Bihr_
- 
+<br />
+<br />
+<br />
 The _Good Home_ is a design exploration of better living for the 21st century. Through a series of public installations we explore what life for a technologically-savvy household. We explore with artists, designers and technologists from around the world how flexible living interacts with the limitations of diminishing household budgets, limited global resources, evolving concepts of privacy, the sharing economy, and global migration.
  
 What might be unusual in the _Good Home_ is that all work starts from values: Future (connected) homes should be respectful and participatory, humble and hackable. Data, increasingly an element to actively design with and for, should be used primarily as an empowerment tool for residents.
@@ -28,5 +30,5 @@ Image credit:
 
 --------------------------------------------------------------------------------------------------
 > An engineer? I had grown up among engineers, and I could remember the engineers of the twenties very well indeed: their open, shining intellects, their free and gentle humor, their agility and breadth of thought, the ease with which they shifted from one engineering field to another, and for that matter, from technology to social concerns and art…one of them might play a musical instrument, another dabble in painting; and their faces always bore a spiritual imprint.
-					Alexander Solzhenitsyn, _The Gulag Archipelago_ (1974)
+      Alexander Solzhenitsyn, _The Gulag Archipelago_ (1974)
 -------------------------------------------------------------------------------------------------
