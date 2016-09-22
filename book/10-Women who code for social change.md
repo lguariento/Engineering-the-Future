@@ -41,7 +41,7 @@ Women Hack For Non-Profits. Photo: Elizabeth Chesters
 
 <ol start="26">
 
-<li id="fn26">http://www.womenhackfornonprofits.com <a href="#fnref26">↩</a></li>
+<li id="fn26">[http://www.womenhackfornonprofits.com](http://www.womenhackfornonprofits.com) <a href="#fnref26">↩</a></li>
 <li id="fn27">https://github.com/marizoldi/Erehwon <a href="#fnref27">↩</a></li>
 
 </ol>
