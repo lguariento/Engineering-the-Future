@@ -1,0 +1,30 @@
+## Weapon of choice
+_Daniel Escamilla_
+_Centro de Cultura Digital, Mexico City_
+
+> You can go with this,
+  or you can go with that.
+  You can go with this,
+  or you can go with that.
+  You can go with this,
+  or you can go with that,
+  or you can throw with us.
+  
+  Fatboy Slim, _Weapon of Choice_, 2001.
+
+
+When Google first launched the Google Maps API in 2005, I rushed to make a personal search. It was overwhelming to be able to locate my house, my neighborhood, my school, and the park I used to play at when I was a child. But the amazement vanished when the API launched a pop-up saying something like, ok, now that you have searched for home, let’s take a look into the real potential of the tool you are bursting into. That was about the first time I felt a real, let’s say, connection with an inanimate tool powered by the already-taken-for-granted tool called the Internet. A little more than 10 years from that afternoon, I stand upon the task of thinking about the future of the Internet of things and actually write something about it.
+Far from the Matrix vision of communication among inanimate systems, I want to lead my argument towards a cultural lecture of IoT and the implications of process automation, specifically those referred to the still-pending subject for informatics: the awareness of existence and self-regulation in computerized systems. _Hola Goldberg_ (2016) is a machine produced by the Free Technologies Lab of the Digital Culture Center (Centro de Cultura Digital) in Mexico City. This machine executes a simple task in a complex process: a set of iron balls slip through a circuit in response to the use of these hashtags on Twitter: #Holagoldberg, #Tecnologíaslibres, and #elCCD. The system follows a given criteria which could also be set up to make choices. This faculty highlights the statement about awareness of existence and self-regulation I just mentioned above.
+In order to frame a brief archeology to this realm, I plan to revise three figures that have anticipated the conceptual and operative basis upon which IoT has been built: robots, cyborgs, and artificial intelligence (as bold as it is now). I also want to emphasize the importance of bringing IoT development forward to discussions within the fields of humanities and cultural studies. 
+Isaac Asimov’s short story _Runaround_ (1942), outlined The Three Laws of Robotics, which pointed out the lack of consciousness of robots since they needed to be programed with instructions in order to perform a task. Later on, in 1962, Manfred E. Clynes and Nathan S. Kline proposed the figure of the cyborg as a cybernetic organism that would develop adaptive abilities in order to inhabit space. The authors enlisted a series of problems that cyborgs would face (let me be obvious about the fact that perception works differently in outer space than it does on Earth). Even though there are many cyborgs developing better prosthesis prototypes, there is still pending a labour of translation of the cybernetic impulse into human perception since technology is developed by humans and for human purposes. That is to say, there is no such a thing as technology for technology’s sake, as Edgar Allan Poe would state. This may be the reason for the third figure’s problem: artificial intelligence. As much as humankind has leaded countless efforts towards this task, it seems that awareness of existence and self-regulation in computed systems will not be solved soon. 
+
+Let’s just consider Tesla’s autopilot crash, the first fatal crash in a self-driving car. The autopilot was driving over the speed limit. We can wonder whether the system was aware of its felony or not. According to Asimov’s laws, the car shouldn’t have put a human life at risk, but the facts say that the car’s computed scenarios in which a machine would consider its programmed options had failed to succeed. The criteria considered during trials went short compared to the undetermined external factors that affected the scientific system. Does this event make science, engineering, robotics or informatics less reliable? Let’s think not, but it does point out the urgency to incorporate philosophical concepts into account. Even more, it proves the importance of a Philosophy of Engineering, since the answers that science is looking for could find a path in cultural and philosophical theories. In the end, the questions about awareness of existence –the same awareness that the IoT fail to develop– may be easier to approach from the field of humanities. 
+
+There is a commonplace in social and cultural studies about how there cannot be a study of historical shifts without the study of technology. Let's take a second to think of the wheel, the vapor machine, electricity or even canned food and how those developments trace a breaking point in human history. This technologies change the way we constitute ourselves as human beings and our relationship with reality. Now let's take one more second to think of some philosophical developments. There is also a joke among philosophers that say, ‘It is true that France made the revolution, but Germany invented the terms and concepts to think of the revolution’. In other words, there would have never been a French Revolution if the concepts had not been developed by philosophy. 
+
+As a term, IoT was first proposed by Kevin Asht in 1999. The concept was conceived as a network to set up interactions among different technologies. As for this very moment, almost 20 years after, it seems that there has not been a devolvement of IoT beyond Asht’s concept. If we consider the extent to which technologies have been a breaking point in human history, and we add how the development of new concepts allow us to think ourselves in new terms, then it becomes clear that both technology and philosophy are social tools in terms of how we constitute ourselves as human beings. 
+
+Let's set up our current context towards a Philosophy of Engineering, and let's enunciate the bases upon which Internet of Things can be developed as a philosophical theory. 
+
+Image credit:
+Hola Goldberg (2016), Centro de Cultura Digital, Mexico City 
