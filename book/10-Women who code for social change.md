@@ -35,7 +35,7 @@ Women Hack For Non-Profits. Photo: Elizabeth Chesters
 
 > A new, a vast, and a powerful language is developed for the future use of analysis, in which to wield its truths so that these may become of more speedy and accurate practical application for the purposes of mankind than the means hitherto in our possession have rendered possible. Thus not only the mental and the material, but the theoretical and the practical in the mathematical world, are brought into more intimate and effective connexion with each other. We are not aware of its being on record that anything partaking in the nature of what is so well designated the Analytical Engine has been hitherto proposed, or even thought of, as a practical possibility, any more than the idea of a thinking or of a reasoning machine.
 
-> Ada Lovelace, describing Charles Babbage’s _Analytical Engine_ (1843)
+> Ada Lovelace, describing Charles Babbage’s Analytical Engine (1843)
 
 ---
 
