@@ -9,7 +9,7 @@ Researching a series of text-related events and exhibitions relating to the 1950
 > A particular convention or attitude in art has a strict analogy to the phenomena of organic life. It grows old and decays. It has a definite period of life and must die. All the possible tunes get played on it and then it is exhausted; moreover its best period is its youngest. Take the case of the extraordinary efflorescence of verse in the Elizabethan period. All kinds of reasons have been given for this – the discovery of the new world and the rest of it. There is a much simpler one. A new medium had been given them to play with – namely blank verse. It was new and so it was easy to play new tunes on it’.[<sup>12</sup>](#fn12)<a id="fnref12">
 
 ### 2. On Inventing
-John Cage spoke in 1972 of the influence his father, an inventor of submarines, had on him. He also recounted how Schönberg, his music teacher, when asked who was his best pupil had said – Cage, then added: ‘of course he’s not a composer but he’s an inventor – of genius’.[<sup>13</sup>](#fn13)<a id="fnref13">  Schönberg believed that there was no technique without invention and that it was closely aligned with inspiration, otherwise it was imitation. 
+John Cage spoke in 1972 of the influence his father, an inventor of submarines, had on him. He also recounted how Schönberg, his music teacher, when asked who was his best pupil had said – Cage, then added: ‘of course he’s not a composer but he’s an inventor – of genius’.[<sup>13</sup>](#fn13)<a id="fnref13"> Schönberg believed that there was no technique without invention and that it was closely aligned with inspiration, otherwise it was imitation. 
 
 The etymological root of engineering, the Latin word _ingeniare_, means ingenious and clever thinking coming from within. Indeed much of the impact of engineering happens below the surface, at structural or sub-structural levels. We might think that poets are also subterranean diviners. But they can also affect perceptible surfaces.  In 1964, Brazilian poet Décio Pignatari wrote that ‘for me, poets are language designers’.[<sup>14</sup>](#fn14)<a id="fnref14"> He expressed this at a point when the skills of graphic and industrial designers, typographers and poets were crossing over, evident among networks of people in Brazil, Germany and UK in particular, resulting in the making of new types of poetry – variously called concrete, process based, visual, spatial or semiotic. Finding new ways to describe the movement itself occupied many pages and many manifestos. Linguistic inventiveness was at the heart of this development. In 1965, Haroldo de Campos coined the term typoetry[<sup>15</sup>](#fn15)<a id="fnref15"> to describe the work of one practitioner, Hansjörg Mayer whose skills with language, type and form helped fit this new jigsaw – a typoetical revolution? -  together. 
 
@@ -83,12 +83,10 @@ the second is a manuscript poem by Pedro Xisto, a Brazilian poet which was enclo
 Note: 
 If the definition isn't good enough I am not sure I can enhance the Xisto one but Hansjörg could do a better version of the Nake one as he has the portfolio in his studio in London and i could ask him to send another.
 
-
-----------------------------------------------------------------------
-
 > The truth is that the eyes and the fingers the bare fingers are the two principal inlets to sound practical instruction. They are the chief sources of trustworthy knowledge in all the materials and operations which the engineer has to deal with. No look knowledge can avail for that purpose. The nature and properties of the materials must come in through the finger ends. Hence, I have no faith in young engineers who are addicted to wearing gloves. Gloves, especially kid gloves, are perfect non- conductors of technical knowledge.
-						James Nasmyth, Autobiography (1883)
-						
+
+> James Nasmyth, _Autobiography_ (1883)
+
 ___
 
 <ol start="11">
