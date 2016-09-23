@@ -1,4 +1,4 @@
-### The Buddy, the Butler and the Police: AI personas and the myth of frictionless functionality 
+## The Buddy, the Butler and the Police: AI personas and the myth of frictionless functionality 
 _UNIFORM_
 <br />
 <br />
