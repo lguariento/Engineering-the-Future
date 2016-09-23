@@ -1,0 +1,22 @@
+### Knit
+<br />
+<br />
+<br />
+Technology is a vital and ever-present part of our daily lives. Yet despite of this we often don’t recognize the subtle and growing impact it has on our relationship with our physical environment.
+ 
+Human-computer interactions have so far been predominantly screen-based. But this is changing. Our first experience of digital began with desktop computing, which then expanded with the evolution of the Web. Then came mobile, which has lead us to the fascinating intersection we find ourselves today.
+ 
+User interfaces consist of voice and gesture. Devices and products that were once analogue are now connected and equipped with sensors that share data about user behaviour. Creative technology is at the heart of this transition; where tangible inputs and mechanical outputs reign supreme.
+ 
+Knit create projects within this space. We are a new breed of technicians, combining practices and techniques from traditional engineering such as software, electrical and mechanical, to merge technologies in bespoke ways, making them work together to create interactive and immersive experiences.
+ 
+For the V&A Digital Design weekend 2016, Knit have created a Rube Goldberg inspired sequence of interactions that represents the convergence of our physical and digital worlds. The installation will use a variety of technologies to create an interactive experience that explores how these technologies can be engineered to work in harmony through a sequential chain reaction of digital and physical elements.
+ 
+Join us in the exploration of just some of these technologies at play. Whilst we will reveal the inner workings at play, the input data we use, the environmental factors and also the data that we collect.
+
+IMAGE CREDIT:
+Knit 
+
+> Civil engineering is the art of directing the great sources of power in nature for the use and convenience of man, being that practical application of the most important principles of natural philosophy which have in a considerable degree realized the anticipations of Bacon, and changed the aspect and state of affairs in the whole world.
+
+> Thomas Tredgold (1788-1829)
