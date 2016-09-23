@@ -1,0 +1,30 @@
+## #TechnoRhino
+_Harriet Knight_
+<br />
+<br />
+<br />
+Recently things I have separated throughout my life are merging; science and technology are colliding with art and creativity. Experiencing the collaborative blending of skills during my time at the Met Office has made me question the way society often separates science and technology from the arts, and whether this might be changing.  
+
+### Science or art?
+
+As a summer placement student at the Met Office, I’ve been unable to predict my daily duties from one day to the next. I couldn’t have known, for example, that when working with the Met Office’s Informatics Lab on Friday I would spend the day sticking LED strip lights onto a fake Rhino’s arse.
+
+I’ve spent most of my time on this planet making choices: what to do next, where to go, how to better my experience in order to prepare myself for life. I now find myself in the peculiar position of actually doing ‘that life thing’ that I’ve been working towards all this time. A significant choice I had to make was between my two passions: science and art. It was never an option to pursue both subjects. I chose science with the idea in mind that I would still ‘do art’ in my spare time. 
+
+Despite my intentions I realised how unrealistic this was. Deadlines and revision always demanded my attention and energy. The quick bit of painting I would squeeze in every now and again didn’t satisfy my yearning for a creative outlet. It soon came to light that it was not the physical act of ‘doing art’ that I loved so much, it was the entire creative process. It was starting with just a word or an idea and researching, sketching, trialling, and perfecting before finally producing an outcome. Simply picking up a brush and painting an object is a different subject entirely. 
+
+### A collaborative way of thinking
+
+On starting at the Met Office I glimpsed a world where my dreams of combining creativity with science may be closer to reality. The Met Office’s Informatics Lab is a collection of scientists, coders and designers who work on projects collaboratively.  This merging of disciplines and skill sets results in the rapid fire production of ideas, prototypes and new technologies. Making data more manageable and accessible to people is a creative process, requiring idea generation as well as trial and error. It’s a form of creativity I had never come across before. 
+
+The _#TechnoRhino_ was a small scale version of the type of projects the Informatics Lab undertake. The hundreds of LED lights covering the Rhino’s body are controlled by the public, who choose what will be displayed using the internet. The displays are of the weather under various conditions. The science is communicated using technology, design and public engagement. 
+
+Image captions/credits: 
+
+All photos Harriet Knight
+
+Rhino5.jpg - Positioning the LEDs on TechnoRhino
+
+Rhino6.jpg - Testing LEDs on the body of the TechnoRhino 
+
+Weathermap.jpg - _The weather of 100 years ago (26 January 1915) as reconstructed by the 20th Century Reanalysis: pressure, wind, temperature and rainfall. This reconstruction is made using a modern weather forecast model running on a supercomputer, combined with observations made on the day being reconstructed. Observations are the yellow dots. In areas where we have no observations the reconstruction is very uncertain, these areas are marked by grey fog._
