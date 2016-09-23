@@ -21,9 +21,9 @@ The second project we have pursued in this domain flips the concept of digital g
 
 Our first application in this area is behaviour change and self-improvement, by linking success completing self-selected goals (such as steps per day or calorie targets) with the continued health of plants, we are developing a new medium for interacting with technologies. ‘Growth as data’ has a lot of interesting properties which we are exploring though this research:
 
-- A plant is just a plant, except when it’s not:  the novelty of this approach means that even publicly displayed ‘data plants’ are secure repositories of even sensitive data, as only those with whom you share the purpose of the plant will be able to interpret the true meaning of how the plant grows. 
-- Tangible Ownership: since data is stored physically in the form of the plant it is very difficult to copy, steal or reverse engineer the information stored within it. Depending on the nature of the application, plants can be used that provide rapid but short-lived growth or provide a long term embodiment of behaviour change over time.
-- Emotive Motivation: as living, changing objects plants are inherently more engaging than cold numbers and graphs, and fundamentally less disposable. Fruiting plants and herbs can also be used to grow edible rewards for successful self-improvement.
+- _A plant is just a plant, except when it’s not_:  the novelty of this approach means that even publicly displayed ‘data plants’ are secure repositories of even sensitive data, as only those with whom you share the purpose of the plant will be able to interpret the true meaning of how the plant grows. 
+- _Tangible Ownership_: since data is stored physically in the form of the plant it is very difficult to copy, steal or reverse engineer the information stored within it. Depending on the nature of the application, plants can be used that provide rapid but short-lived growth or provide a long term embodiment of behaviour change over time.
+- _Emotive Motivation_: as living, changing objects plants are inherently more engaging than cold numbers and graphs, and fundamentally less disposable. Fruiting plants and herbs can also be used to grow edible rewards for successful self-improvement.
 
 ### Digital Growing at the Digital Design Weekend
 
