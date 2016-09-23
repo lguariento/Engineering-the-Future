@@ -1,4 +1,4 @@
-### When the Plants Go Digital
+## When the Plants Go Digital
 _Dr. Ben Bedwell, Dr. Sarah Martindale, Dr. Michael Brown_
 <br />
 <br />
