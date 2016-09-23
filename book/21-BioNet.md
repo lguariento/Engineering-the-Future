@@ -1,0 +1,34 @@
+## BioNet
+_William Joyce_
+<br />
+<br />
+<br />
+BioNet. Agriculture Ltd is a startup specialising in edible bioplastics.  The company was founded by Will Joyce, Nick Aristidou and Stelios Chatzimichail who are PhD researchers in the Department of Chemistry at Imperial College London.  BioNet have developed a unique and patented biopolymer to wrap hay, straw and silage bales.  This is their case study but the wider vision for the company is to tailor edible biopolymer to a range of applications and markets.
+
+You will have seen hay, straw and silage bales scattered over the countryside between June and August every year. They are a large commercial arable crop with the specific purposes of both feeding livestock and acting as a source of bedding.  In the UK thirty million bales are processed each year and across the globe that figure extends to eight billion bales.  Bales are an essential feedstock for 1.6 billion livestock all over the world.  At present, they are reliant on fossil fuel derived plastic for processing.
+
+Back at home co-founder Will lives on a livestock farm in the Welland Valley in Rutland and the idea for BioNet was formulated to solve a problem faced everyday on the farm. Bales are wrapped in approximately 12 m2 of plastic and this must be removed before the forage is fed to livestock.  The only way to do this is for the farmer to manually unwrap the plastic from each bale he feeds to the livestock.  This is a difficult job and it costs the farmer valuable time, especially at key periods of the year such as during lambing and calving.
+
+Enough waste plastic is generated each year from bailage to wrap the world 20 times over.  Bulging plumes of toxic black smoke are exhumed from farms all over the world.  This is the sight and smell of plastic bale waste being burnt.  Farmers have two options – they either pay to have the plastic sent to landfill where it takes over 500 years to decompose or as I alluded, the waste plastic is illegally burnt.  For a farm running on tight margins, the latter is always the easiest and cheapest option.
+
+The solution is _BioNet_.  A unique edible biopolymer to wrap the bales.  The animals can eat the plastic directly from the bales which means the farmer no longer has to worry about removing the waste plastic.  Plastic waste on farms will be reduced and in addition our solution is safer for livestock animals no longer run the risk of ingesting left over plastic.  Our unique formulation is enhanced with minerals to support healthy milk and meat production.  Mineral deficiency in livestock is problematic, this usually aggravated during the winter months whilst cattle are kept inside in barns.
+
+In particular, fibrous matrix of the biopolymer is cross linked with a component that has the intrinsic ability to reduce cattle methane emissions.  On average each year a fully grown Friesian dairy cow will produce between 80-120 Kg of methane gas, almost half of their body weight.  Whilst methane is a potent greenhouse gas it is also the primary source of inefficient digestion within the cattle rumen.  Cattle have four stomachs which are filled with bacteria which are required to help digest the large volumes of cellulose that they eat. Unfortunately, methanogenic bacteria are also present in the rumen.  Although they are harmless to the animal they are the primary source of inefficient digestion.  The unique chemical composition of the biopolymer has the ability to reduce cattle methane emissions, in this way it enhances digestion.  This means that the cattle are better able to process their food thus able to accrue more mass.
+
+Will Nick and Stelios graduated from Imperial College with first class degrees in Chemistry.  They are currently studying for their PhDs and bring invaluable research expertise from the three specific disciplines needed to solve the problem.  Nick is an expert in materials processing whilst Stelios is an expert in polymer chemistry.  Will brings molecular biology expertise to the team.
+
+The venture is early stage but the vision is far reaching.  An edible biopolymer has the potential to emerge into a wide range of markets.  The BioNet biopolymer can be tailored to a range of applications.
+
+BioNet. Agriculture were the winners of the Venture Catalyst Challenge at Imperial College this year winning a prize of £10,000.  This is an accelerator designed to bring the best research with commercial prospects together at Imperial into a completion.  170 teams entered and the demographic spanned from undergraduates through to professors.  In addition, BioNet were awarded the most promising start-up award and a £2000 prize voted by the Imperial Corporate Business Partners.   We have been intervened on BBC World Service and BBC Radio 4’s Farming Today Program as well as Radio New Zealand.  Both the Farmer’s Weekly and London’s TimeOut magazine have published articles on _BioNet_.
+
+Currently on our timeline we are in the process of official livestock validation testing and have engaged with a plastics facility to conduct an intermediate scale-up of the biopolymer.  In addition, we are field testing and are in contact with farms from Australia, Canada, America, Scotland and New Zealand to conduct harsh field trials on the biopolymer.  We estimate that the product could be seen on the fields in 3 years.  BioNet is an initiative for sustainable farming and also for a sustainable future.  
+
+Image credit:  
+
+---------------------------------------------------------------------------------------
+
+Veronica Ranner: bio-digital enabling material silk and body interfaces
+
+TEXT WILL BE IN ASAP - AWAITING SIGN OFF FROM BOSTON 
+
+-----------------------------------------------------------------------
