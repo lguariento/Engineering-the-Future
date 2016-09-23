@@ -1,4 +1,4 @@
-### Machine Wilderness
+## Machine Wilderness
 _Alice Smits and Theun Karelse_
 <br />
 <br />
