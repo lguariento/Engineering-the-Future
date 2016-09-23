@@ -1,0 +1,45 @@
+### The Buddy, the Butler and the Police: AI personas and the myth of frictionless functionality 
+_UNIFORM_
+<br />
+<br />
+<br />
+_AI is fast becoming a new material for interaction designers. We developed three AI ‘personas’ to help us better design intelligent products._
+
+AI has finally crept out of science fiction and into products and services we use everyday. It is fast becoming an exciting new material for interaction designers, and companies such as Google, Microsoft, Amazon and IBM are making their AI technology available to use. The use of AI in objects will lead to new kinds of relationships between products and humans. With these new relationships come new challenges (and responsibilities) for designers and technologists. 
+
+An AI - or ‘Smart’ object - is, at its worst, a one-size-fits-all attribute that steers away from actually considering the advantages of the upgrade. We challenged ourselves to find a way to design better intelligent products, a way that accounts for variances in functional preference. 
+
+To help us better understand the different ways AI can behave, we developed different AI ‘personas’: the Butler, the Police and the Buddy. These personas demonstrate three different ways of employing smartness to help us better design AI powered products. By no means a rigid set of rules, these personas are more of a vocabulary to help start thinking and designing with artificial intelligence.
+
+### The Butler
+
+The Butler in AI is what we would refer to as ‘seamless’ in UX: a system that knows what you might need and does it, requiring little or no explicit interaction.There are cases in which this is a desirable capability, for instance a robot vacuum cleaner. The Roomba 980 robot vacuum cleaner uses computer vision to map your house to know where it has already been. We are fine with it doing this autonomously, and not asking for permission to go in one room or another. But if there are hardly any risks in letting technology take care of such an underwhelming task, there are cases where this approach would be problematic.
+
+Firstly, such a model requires the designer either to consider all kinds of users and design for each, or, a more common scenario, design a standard default behaviour supposedly apt for the great majority, an approach that can lead to problems designing for diversity. The second issue centres on legibility. Seamless interactions and invisible interfaces might lead us to become even more disconnected from the technologies we rely on. As these become more complex and the effect of their actions more important, the risk of being alienated from such an important infrastructure becomes fraught with threatening implications.
+
+### The Police
+
+The Police describes a smart system that prevents some choices and enforces others, following some ‘higher good’ that might go against the user’s intentions. A banal example is a smart alarm clock. We can enhance it by making it aware of sleeping cycles, syncing with our calendar and learning our routines, but eventually it will need to enforce a certain action to perform its core function. But the alarm clock is inherently, even before any technological upgrade, a ‘police’ device, while there are other products where smartness introduces a novel functionality. 
+Consider the learning function in the Nest thermostat. The first version of the algorithm set the temperature to a value that users never set in order to help them save energy. This might be fine with some who accept the inconvenience for the perspective of a higher good (environmental or a cheaper bill), but eventually user reactions against feeling a lack of control led the company to change their algorithm to eliminate this behaviour.
+It’s easy to see the benefit in enforcing certain widely beneficial choices, but the problem here is to decide who’s in charge of those decisions, and to what extent they should be enforced. The implication of those decisions might turn out to be highly critical and range from design for good to designing dystopia.
+
+### The Buddy
+
+The last persona is the Buddy: AI that supports the user without substituting them. The machine here is a friend. You ask it for help, and it won’t judge or serve you predictably. The crucial aspect here, and what distinguishes this persona from the previous two, is that the final choice is the user’s. Options are not enforced or implied, but rather suggested.
+A good example of this type of AI relationship is an historical one. Chessmaster Garry Kasparov was famously beaten by Deep Blue, IBM's supercomputer, in 1997. What's less well known is what happened after. Kasparov didn't resign in desolation, hailing the new robot lord of the game, he instead theorized and instituted what goes by the name of Centaur Chess. This follows the same rules of traditional chess, except players can use specific computer programs to predict all possible moves at each stage of the game. Most importantly, this human-machine team has proven to be superior to both humans and machines alone. It's easy to see the appeal of such a reference. Here we have a human-computer entity where the human is empowered rather than replaced. The machine does what's it's best at: precise data crunching. The human is left to apply those skills he or she excels at: creativity and intuition.
+
+Drawing from the AI personas framework, we set out to build a prototype that would express one of those characteristics. This would serve as a sort of archetypical product that - when deployed in the real world and used by real people - would allow us to gather insight and feedback. We began by applying the AI personas to many different everyday products. For each we decided the particular behaviours assigned to an AI Buddy, Butler or Police. Some objects had a natural persona; for example a car fits well with the Police (if you were intoxicated, it would not let you drive). We eventually decided that a radio was an interesting product to explore, as it could take on any one of the three personas, with different, equally arresting results. 
+
+The resulting project, _The Emotional Radio_, works by playing content depending on your emotion. As you approach, a metronome-style feature starts moving, letting you know it sees you. As you stand in front of the radio, your eyes appear on the screen as two circles. The circles track your eyes; as you move, so do they. When they recognize your emotion, the eyes spin round, suggesting something is playing. A track begins that is reflective of your emotions. As you walk away, the eyes fade and the metronome slows, then stops.
+
+If _The Emotional Radio_ embodied the Buddy, it would give you options - friendly recommendations - but ultimately let you decide. If it embodied the Butler, it would give you what it thinks you want. If you are sad, it would allow you to wallow rather than suggesting you cheer up. If the radio embodied the Police, it would turn the volume down late at night, or refuse to play explicit tracks before the watershed.
+
+We chose the Butler as the AI persona to explore with _The Emotional Radio_ as it raises questions of obedience. Do we want what we think we want? What AI characteristics should products take? How do design decisions impact our relationship with the eventual AI? Each persona has distinct challenges and benefits. 
+
+One such challenge was navigating a visual language still in its nascency. How do we know when an object is scanning for emotion, age or sex? Does a screen make this explicit, or can there be a more subtly designed interface? Interestingly, we found that when the radio was in debugging mode, users were more inquisitive. They could see it was watching them, and were drawn in to explore.
+
+Another complexity is one that will likely improve as AI algorithms increase in sophistication: the issue of generic features. Why does _The Emotional Radio_ always think one user is angry? A monobrow fools the AI. And another, why is he always so sad? His beard makes the AI see him as perpetually glum. AI has much to learn about navigating physical individuality. Or we could all start grooming ourselves to look the same, and train our smiles and frowns into the perfect shapes for AI to recognize.
+
+We believe designing AI through personas introduces a shift in how we understand and interact with smart products as they take increasingly important roles in our environments. Sticking to constructs of magic or ‘perfect robots’ for products whose behaviours are complex and nuanced is misleading. It encourages ‘faith’ in the infallibility of the product, making the consequences of an unexpected action deceiving and in the worst case even dangerous. 
+
+The use of human-like characteristics implicit in personas leaves room for forgiveness. You don’t expect a robot to make mistakes, but you do expect them from your buddy, butler or police. Designing for AI through characters - roles the algorithm takes on rather than settings that precisely define its behaviour - created a constructed human identity for AI that fostered a healthier relationship with technology.
