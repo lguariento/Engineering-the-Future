@@ -1,0 +1,25 @@
+## CAKE, Tellybox and Radiodan
+_Jasmine Cox, Libby Miller, Joanne Moore, & Andrew Nicolaou: BBC R&D_
+<br />
+<br />
+<br />
+Part of our job in BBC R&D is to get a deep and broad understanding of a product space. Deep in the sense of gaining a fundamental understanding of the technology landscape. Broad in the sense of discovering what something could become by understanding the user needs underlying people's behaviour in a particular sphere.
+
+As technology rapidly opens up new possibilities, making it feasible for a spatula to know where you are in a recipe, or a TV to provide you with any piece of video ever made, or an advertising system to be able to predict what you will buy, there's an urgent need to explore possible futures with people, so that we get the future we want.
+
+Here are three practical things we do to make sure this happens, illustrated by three of our recent projects.
+
+The _Cook-Along Kitchen Experience_ (CAKE) is a real-time, interactive cookery programme that changes as you cook with it. It customizes recipes based on your familiarity with ingredients and methods, your tastes or dietary preferences, and how many people you're inviting round for dinner. The experience reacts 'in the moment' to your progress, allowing you to create new dishes at your own pace. Novices can level-up and experts can cut to the chase, supported by an evolving dialogue between audience and presenter.  
+
+_CAKE_ explores the rituals of recipes, so we started with a questionnaire to broaden our initial thinking beyond our own experiences. We then studied fifteen people in their own kitchens following an early stop-start video prototype to prepare a chocolate dessert. We observed them and listened to their conversation with Bella our presenter, enabling us to iterate the prototype at an early stage and get valuable early feedback on appropriate interaction modes.
+
+_Tellybox_ is a project to prototype future TV experiences in the home, with a ten-fifteen year time horizon. Initial interviews led us unexpectedly to ‘watching together’ as a need that the current technology trajectory is failing to meet. In this subtle and complex area of decision-making in groups, in-depth ethnographic interviews were the most suitable next step. Using this information, we have developed a card-based tool that investigates viewer’s decision-making behaviour in groups and paper prototypes to broaden our understanding of user needs before we settle on any particular technical approach.
+
+Radio is listened to by 89% of the UK population, so for _Radiodan_, a project to explore the future of radio, we had many potential users with diverse and varied behaviours. We designed a set of postcards and stickers for having structured conversations with people about what they want. Using these we generated physical prototypes to investigate the how: what the architecture would look like, how it might be controlled, whether it would work, and how much it would cost to make. 
+
+This process eventually led us to the creation of a kit of parts for building your own radio. A kit of parts facilitates conversations and criticism of the current approach to building software apps and closed-devices. Building your own device lets you ‘see inside’ the design and build process for a connected device and from there we can explore issues of data privacy, functionality and connectedness. 
+
+By talking to a broad range of people about what they want, we expand our own frame of reference about what something might become. By grounding the work in physical prototypes we gain a deep understanding of how new devices might be made with modern technologies. By showing people those prototypes and encouraging them to interact with them, we expand their frame of reference too, and gain insight into whether the functionalities we have provided from a technical perspective are the right ones from a human perspective.
+
+Image credit: 
+BBC R&D
