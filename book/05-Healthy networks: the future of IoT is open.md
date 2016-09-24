@@ -4,7 +4,9 @@ _Michelle Thorne_
 <br />
 ![Group photo, Mozilla Open IoT, Anstruther Scotland Design Sprint, June 2016](images/3.jpg)
 *Group photo, Mozilla Open IoT, Anstruther Scotland Design Sprint, June 2016*
+
 <br />
+
 The internet is changing forms. Today we live in a network of physical objects and services that continuously gather data and exchange it over the internet. These connected systems are increasingly invisible, inaccessible and immutable to us.
 
 We believe that as the internet evolves, it must remain a global public resource that is open and accessible to all.  
