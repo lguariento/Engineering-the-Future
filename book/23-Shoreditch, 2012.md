@@ -8,7 +8,8 @@ A group of science enthusiasts, hackers and students from University College Lon
 
 The students are taking part in the annual international Genetically Engineered Machine competition (iGEM), a kind of university student maker-faire for genetic engineering. Each participating group creates, tests and shares _BioBricks_, small pieces of DNA that are meant to have a specific function. For example, one BioBrick might function as a sensor, whilst another one might function as a reporter by producing a fluorescent protein that makes a bacterial cell glow under UV light. BioBricks are formatted in a specific standardised way so they can be easily chained together into a _Genetic Circuit_, with BioBricks of particular functions action together to create desired functionality. In practice, many BioBricks only work in very specific contexts and often lack documentation, but the effort to make engineering biology more standardised and thereby more sharable has undoubtedly lowered the threshold. A handful of undergraduate students are now able to conduct projects that previously might have taken an entire PhD’s worth of lab work.
 
-Image1: Bento Lab Beta Prototype 
+![Image1: Bento Lab Beta Prototype](images/23a.jpg)
+*Image1: Bento Lab Beta Prototype*
 
 Biohackers are people from many walks of life who have declared the engineering of biology their hobby, and who are trying to replicate the kind of work done by students in the iGEM competition in their own community laboratories. Back in Shoreditch, the UCL students were facilitating through a series of workshops at London Hackspace and UCL’s teaching laboratories the creation of a first Biohacker-made BioBrick, which they named the _Public BioBrick_. For the students, it was a new experience to encounter biotechnology outside of the university walls. 
 
@@ -30,4 +31,5 @@ When we saw that Bento Lab was of tangible use to a wide set of different activi
 
 Philipp Boeing is one of the co-founders of Bento Lab, an all-in-one DNA laboratory that anyone can use. He studied Computer Science with a focus on Synthetic Biology at University College London. As a member of bio-media-arts group BCL in Tokyo, he explores the relationships between media art, biosciences and society.
 
-Image2: Bento Lab Kickstarter model with Tutorial Kit 
+![Image2: Bento Lab Kickstarter model with Tutorial Kit](images/23b.jpg)
+*Image2: Bento Lab Kickstarter model with Tutorial Kit*
