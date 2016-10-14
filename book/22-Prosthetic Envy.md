@@ -1,4 +1,6 @@
-Image: Viktoria Modesta. Photo by Lukas Suchorab. Styled by Joanna Hir. Prosthetic by Alternative Limb Project 
+![Image: Viktoria Modesta. Photo by Lukas Suchorab. Styled by Joanna Hir. Prosthetic by Alternative Limb Project
+](images/22.jpg)
+*Image: Viktoria Modesta. Photo by Lukas Suchorab. Styled by Joanna Hir. Prosthetic by Alternative Limb Project*
 
 ## Prosthetic Envy
 
