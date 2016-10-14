@@ -30,5 +30,5 @@ There is a certain irony then that prosthetic envy derives from an ignorance cau
 <li id="fn28">Virtual Futures Salon on Prosthetic Envy (May 2016) - http://www.virtualfutures.co.uk/event/vfsalon-prostheticenvy/ <a href="#fnref28">↩</a></li>
 <li id="fn29">Nigel Ackland is the pioneering pilot of the bebionic3 – the world’s most advanced prosthetic limb <a href="#fnref29">↩</a></li>
 <li id="fn30">Having lost his arm in a rail accident in 2012 James A.H. Young now uses a futuristic prosthetic limb designed by the Alternative Limb Project <a href="#fnref30">↩</a></li>
-<li id="fn31">Nicky Ashwell is the first UK-user of the bebionic small prosthetic limb. <a href="#fnref31">↩</a><</li>
+<li id="fn31">Nicky Ashwell is the first UK-user of the bebionic small prosthetic limb. <a href="#fnref31">↩</a></li>
 </ol>
