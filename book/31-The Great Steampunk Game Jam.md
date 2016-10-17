@@ -38,15 +38,15 @@ The visual nature of the designs proved to be very popular with the participants
 Image: BT 45/10 (1823) – Ventilating Hat – Top hats were heavy and heads could get quite hot – a combination of perspiration and hair oil could lead to an unpleasant atmosphere. The Bona Fide Ventilating Hat, which featured a system of grilles, aimed to solve this problem by ‘carrying off perspiration from the interior’ 
 
 <ol start="32">
-<li id=32>The British Library Website: Digital Scholarship Blog: 2014 Off the Map Competition Winners Announced at GameCity9 Festival, Available at http://britishlibrary.typepad.co.uk/digital-scholarship/2014/10/2014-off-the-map-competition-winners-announced-at-gamecity-festival.html (accessed 26 July 2016)<a href="#fnref32">↩</a></li>
-<li id=33>The National Videogame Arcade Website: Gamecity: Off The Map 2015: Alice in Wonderland, Available at http://gamecity.org/alices-adventures-off-the-map-winners-announced/ (accessed 26 July 2016)<a href="#fnref33">↩</a></li>
-<li id=34>The Victoria and Albert Museum Website: Blog: 
+<li id=fn32>The British Library Website: Digital Scholarship Blog: 2014 Off the Map Competition Winners Announced at GameCity9 Festival, Available at http://britishlibrary.typepad.co.uk/digital-scholarship/2014/10/2014-off-the-map-competition-winners-announced-at-gamecity-festival.html (accessed 26 July 2016)<a href="#fnref32">↩</a></li>
+<li id=fn33>The National Videogame Arcade Website: Gamecity: Off The Map 2015: Alice in Wonderland, Available at http://gamecity.org/alices-adventures-off-the-map-winners-announced/ (accessed 26 July 2016)<a href="#fnref33">↩</a></li>
+<li id=fn34>The Victoria and Albert Museum Website: Blog: 
 The Strawberry Thief iPad Game, Available at http://www.vam.ac.uk/blog/artists-residence-va/the-strawberry-thief-ipad-game (accessed 26 July 2016)<a href="#fnref34">↩</a></li>
-<li id=35>The AbleGamers Charity Website, Available at: http://www.ablegamers.com/ (accessed 27 July 2016)<a href="#fnref35">↩</a></li>
-<li id=36>The Includification Website, Available at http://www.includification.com/ (accessed 27 July 2016)<a href="#fnref36">↩</a></li>
-<li id=37>Some of the games will require special software to play – usually Unity. The Itchio Website: The Great Steampunk Game Jam: Entries, Available at https://itch.io/jam/the-great-steampunk-game-jam/entries (accessed 27 July 2016)<a href="#fnref37">↩</a></li>
-<li id=38>The Itchio Website: Hatastic, Available at: https://generatemeg.itch.io/hatastic (accessed 27 July 2016)<a href="#fnref38">↩</a></li>
-<li id=39>The Itchio Website: A Victorian Trip, Available at: https://izzybeau.itch.io/a-victorian-trip (accessed 27 July 2016)<a href="#fnref39">↩</a></li>
-<li id=40>The Itchio Website: The Great Airship Rescue, Available at https://project-mayhem.itch.io/the-great-airship-rescue (accessed 27 July 2016)<a href="#fnref40">↩</a></li>
-<li id=41>The Admiralty launched a search for Franklin’s expedition of Arctic exploration, which was followed by several professional and amateur attempts to find the expedition.<a href="#fnref41">↩</a></li>
+<li id=fn35>The AbleGamers Charity Website, Available at: http://www.ablegamers.com/ (accessed 27 July 2016)<a href="#fnref35">↩</a></li>
+<li id=fn36>The Includification Website, Available at http://www.includification.com/ (accessed 27 July 2016)<a href="#fnref36">↩</a></li>
+<li id=fn37>Some of the games will require special software to play – usually Unity. The Itchio Website: The Great Steampunk Game Jam: Entries, Available at https://itch.io/jam/the-great-steampunk-game-jam/entries (accessed 27 July 2016)<a href="#fnref37">↩</a></li>
+<li id=nf38>The Itchio Website: Hatastic, Available at: https://generatemeg.itch.io/hatastic (accessed 27 July 2016)<a href="#fnref38">↩</a></li>
+<li id=fn39>The Itchio Website: A Victorian Trip, Available at: https://izzybeau.itch.io/a-victorian-trip (accessed 27 July 2016)<a href="#fnref39">↩</a></li>
+<li id=fn40>The Itchio Website: The Great Airship Rescue, Available at https://project-mayhem.itch.io/the-great-airship-rescue (accessed 27 July 2016)<a href="#fnref40">↩</a></li>
+<li id=fn41>The Admiralty launched a search for Franklin’s expedition of Arctic exploration, which was followed by several professional and amateur attempts to find the expedition.<a href="#fnref41">↩</a></li>
 <ol>
