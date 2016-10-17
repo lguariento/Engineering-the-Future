@@ -19,9 +19,11 @@ This 3D print of Watts’ bust has been officially accessioned (number 2011.14 S
 
 The 3D imaging and 3D printing technology employed in this case study has produced a physical tangible model and a Virtual Reality experience of a previously unseen portrait bust of James Watt, one of the Industrial Revolution's greatest engineers.
 
-Further reading about the project: Hess, M., & Robson, S. (2013). Re-engineering Watt: A case study and best practice recommendations for 3D colour laser scans and 3D printing in museum artefact documentation. In, D. Saunders, M. Strlic, C. Kronenberg, K. Birholzer, N. Luxford (Eds.), Lasers in the Conservation of Artworks IX (pp. 154-162). London, UK: Archetype. [https://iris.ucl.ac.uk/iris/publication/407387/1]
+Further reading about the project: Hess, M., & Robson, S. (2013). [Re-engineering Watt: A case study and best practice recommendations for 3D colour laser scans and 3D printing in museum artefact documentation](https://iris.ucl.ac.uk/iris/publication/407387/1). In, D. Saunders, M. Strlic, C. Kronenberg, K. Birholzer, N. Luxford (Eds.), Lasers in the Conservation of Artworks IX (pp. 154-162). London, UK: Archetype. (https://iris.ucl.ac.uk/iris/publication/407387/1)
 
-Download your app to see the VR James Watt for Google Cardboad [https://play.google.com/store/apps/developer?id=3DIMPact+at+UCL+CEGE ]
+[Download your app to see the VR James Watt for Google Cardboad](https://play.google.com/store/apps/developer?id=3DIMPact+at+UCL+CEGE)
 
 Underlying dataset commissioned and copyright of the Science Museum, with kind permission to use for this project. VR & app development by 3DIMPact / UCL CEGE. Connect by Twitter: @Mona3Dimaging and @UCL_3DIMPact or #3DIMPact. Supported by the AHRC Digital Transformations Theme.
-Image: 3D coloured scan of the object, the negative cast form 
+
+[Image: 3D coloured scan of the object, the negative cast form](images/27.tif)
+*Image: 3D coloured scan of the object, the negative cast form*
