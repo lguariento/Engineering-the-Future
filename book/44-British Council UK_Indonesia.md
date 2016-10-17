@@ -4,7 +4,7 @@ _Jane Showell_
 <br />
 <br />
 <br />
-In March 2016 the British Council invited key UK producers and artists, who work in the arts and new technology, to Indonesia. It’s a country which is not very well-known to people in the UK, but one that South-East Asia looks towards for new and exciting work in the arts . As the world’s largest archipelago, with 17,000 islands and 4th most populated country of more than 250 million people, Indonesia is a country rich in talent and creativity. 
+In March 2016 the British Council invited key UK producers and artists, who work in the arts and new technology, to Indonesia. It’s a country which is not very well-known to people in the UK, but one that South-East Asia looks towards for new and exciting work in the arts[<sup>46</sup>](#fn46)<a id="fnref46">. As the world’s largest archipelago, with 17,000 islands and 4th most populated country of more than 250 million people, Indonesia is a country rich in talent and creativity. 
 
 The purpose of the visit was to introduce UK and Indonesian artists and producers to each other and to explore the possibilities of working together for the UK/ID Season 2016 - 2018. We believe that there is a huge potential in developing a good relationship where both country’s arts scenes have a vast amount to gain.
 
