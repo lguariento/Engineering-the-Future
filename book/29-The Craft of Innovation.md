@@ -44,5 +44,5 @@ The partnerships for Parallel Practices  ‘Learning Through making’ are texti
 
 A further collaboration between the nursing and midwifery team at kings and textile maker Angela Maddock, whose practice explores emotional and physical intimacy, will start in September to enhance haptic and simulation skills for undergraduate studies in nursing and midwifery.
 
-![Image: Annie Warburton](images/29.tif)
+![Image: Annie Warburton](images/29.jpg)
 _Image: Annie Warburton_
