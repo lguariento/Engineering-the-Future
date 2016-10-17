@@ -19,5 +19,5 @@ The visits hope to create a long term conversation and collaborative work betwee
 More information of the British Council UK/Indonesia 2016 - 2018 can be found on : www.britishcouncil.id instagram and twitter account @idbritisharts
 
 <ol>
-<li id=fn46>Asia Pacific's art market comes of age - Guardian, 16 July 2013, https://www.theguardian.com/artanddesign/2013/jul/16/hong-kong-art-basel-asia</li>
+<li id=fn46>Asia Pacific's art market comes of age - Guardian, 16 July 2013, https://www.theguardian.com/artanddesign/2013/jul/16/hong-kong-art-basel-asia<a href="#fnref46">↩</a></li>
 </ol>
