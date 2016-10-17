@@ -50,7 +50,7 @@ The Strawberry Thief iPad Game, Available at http://www.vam.ac.uk/blog/artists-r
 <li id=fn39>The Itchio Website: A Victorian Trip, Available at: https://izzybeau.itch.io/a-victorian-trip (accessed 27 July 2016)<a href="#fnref39">↩</a></li>
 <li id=fn40>The Itchio Website: The Great Airship Rescue, Available at https://project-mayhem.itch.io/the-great-airship-rescue (accessed 27 July 2016)<a href="#fnref40">↩</a></li>
 <li id=fn41>The Admiralty launched a search for Franklin’s expedition of Arctic exploration, which was followed by several professional and amateur attempts to find the expedition.<a href="#fnref41">↩</a></li>
-<li id=fn42>Copies of Julie Halls’ ‘Inventions That Didn’t Change The World‘ and ‘The Thrilling Adventures of Lovelace and Babbage‘ by Sydney Padua were presented to the participants, also courtesy of the Friends of The National Archives. The University of York provided prizes for second and third places – as well as food and refreshments over the weekend, and Able Gamers presented the award for most accessible game.
-<li id=fn43>The Itchio Website: Eleanor’s Notebook, Available at https://yeppoh.itch.io/eleanors-notebook (accessed 27 July 2016)
-<li id=fn44>The Itchio Website: The Great Leap, Available at https://pixelformedstudios.itch.io/the-great-leap (accessed 28 July 2016)
+<li id=fn42>Copies of Julie Halls’ ‘Inventions That Didn’t Change The World‘ and ‘The Thrilling Adventures of Lovelace and Babbage‘ by Sydney Padua were presented to the participants, also courtesy of the Friends of The National Archives. The University of York provided prizes for second and third places – as well as food and refreshments over the weekend, and Able Gamers presented the award for most accessible game.<a href="#fnref42">↩</a></li>
+<li id=fn43>The Itchio Website: Eleanor’s Notebook, Available at https://yeppoh.itch.io/eleanors-notebook (accessed 27 July 2016)<a href="#fnref43">↩</a></li>
+<li id=fn44>The Itchio Website: The Great Leap, Available at https://pixelformedstudios.itch.io/the-great-leap (accessed 28 July 2016)<a href="#fnref44">↩</a></li>
 <ol>
