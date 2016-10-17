@@ -27,6 +27,6 @@ www.stefantiefengraber.com/yourunerasabletext.php
 
 
 <ol start="45">
-<li id=fn45> - phone number of the exhibition “Out of Control” in Ars Electronica Center Linz / Austria - ongoing<li>
+<li id=fn45> - phone number of the exhibition “Out of Control” in Ars Electronica Center Linz / Austria - ongoing<a href="#fnref45">↩</a></li>
 </ol>
 
