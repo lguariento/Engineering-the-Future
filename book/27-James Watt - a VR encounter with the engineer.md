@@ -25,5 +25,5 @@ Further reading about the project: Hess, M., & Robson, S. (2013). [Re-engineerin
 
 Underlying dataset commissioned and copyright of the Science Museum, with kind permission to use for this project. VR & app development by 3DIMPact / UCL CEGE. Connect by Twitter: @Mona3Dimaging and @UCL_3DIMPact or #3DIMPact. Supported by the AHRC Digital Transformations Theme.
 
-[Image: 3D coloured scan of the object, the negative cast form](images/27.jpg)
+![Image: 3D coloured scan of the object, the negative cast form](images/27.tif)
 *Image: 3D coloured scan of the object, the negative cast form*
