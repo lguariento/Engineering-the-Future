@@ -23,6 +23,7 @@ This also raises questions about the locations of the servers we are using and t
 By end of June 2016 more then 40.300 short messages were collected. 
 
 www.stefantiefengraber.com
+
 www.stefantiefengraber.com/yourunerasabletext.php
 
 
