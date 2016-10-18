@@ -12,12 +12,12 @@ With this rise of learning through digital devices the classroom can become a mu
 
 Part of the challenge was to design a pop up structure that can be easily assembled and clearly defines a non public space for the workshop to happen within the public galleries. Using tubes of light as the material the structure creates an attractive environment to work without putting up solid barriers. The tubes create a visually unobtrusive space within a space, framing an area while the public are still able to see the excitement of the workshop happening. The structure is not the absolute defining parameter for the workshop with large entry and exit points designed to allow the movement of people encouraging a more dynamic style of learning to take place. Along with the structure there are additional pieces of mobile furniture which facilitate the running of any workshop, from the storage unit which was designed with integrated steps to assist the assembly of the structure, to lightweight aluminium trestles and glass table tops which fit onto the storage unit for transit and are quick and easy to setup. The glass tables can be drawn on with marker pens to aid the development of the children's ideas in a free flowing fun way. We hope other educational spaces adapt to compliment the way children are learning, particularly as digital technology moves forward and the methods of learning adapt.
 
-_Dubloon a London based design consultancy founded by James Boock and Henry Franks in 2015 after graduating together from the Royal College of Art. The studio works on product development, experience design and physical branding. They have worked on various projects with musicians, scientists and psychologists to produce considered work with a focus on original and exciting experiences.
+_Dubloon a London based design consultancy founded by James Boock and Henry Franks in 2015 after graduating together from the Royal College of Art. The studio works on product development, experience design and physical branding. They have worked on various projects with musicians, scientists and psychologists to produce considered work with a focus on original and exciting experiences._
 
-Dubloon
+_Dubloon
 www.dubloon.co.uk
 
-Special thanks to Alex Flowers, the V&A Learning team and Samsung_
+_Special thanks to Alex Flowers, the V&A Learning team and Samsung_
 
 ![Image: Dubloon](images/48.jpg)
 _Image: Dubloon_
