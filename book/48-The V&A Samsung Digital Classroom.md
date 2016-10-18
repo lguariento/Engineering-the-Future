@@ -14,8 +14,7 @@ Part of the challenge was to design a pop up structure that can be easily assemb
 
 _Dubloon a London based design consultancy founded by James Boock and Henry Franks in 2015 after graduating together from the Royal College of Art. The studio works on product development, experience design and physical branding. They have worked on various projects with musicians, scientists and psychologists to produce considered work with a focus on original and exciting experiences._
 
-_Dubloon
-www.dubloon.co.uk
+_[Dubloon](www.dubloon.co.uk)
 
 _Special thanks to Alex Flowers, the V&A Learning team and Samsung_
 
