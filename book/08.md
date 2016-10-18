@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Good Home
+---
+
 ## The Good Home
 _Alex Deschamps-Sonsino & Peter Bihr_
 <br />

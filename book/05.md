@@ -1,3 +1,8 @@
+---
+layout: post
+title: Healthy networks: the future of IoT is open
+---
+
 ## Healthy networks: the future of IoT is open
 _Michelle Thorne_
 <br />

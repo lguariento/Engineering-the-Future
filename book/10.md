@@ -1,3 +1,8 @@
+---
+layout: post
+title: Women who code for social change
+---
+
 ## Women who code for social change
 _Mariza Dima, Liliana Kastilo, Nandhini Narasimhan (Women Hack For Non Profits)_
 <br />

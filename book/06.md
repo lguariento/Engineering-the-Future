@@ -1,3 +1,8 @@
+---
+layout: post
+title: Located thinking: the future of IoT is local
+---
+
 ## Located thinking: the future of IoT is local
 _Jon Rogers_
 <br />

@@ -1,3 +1,8 @@
+---
+layout: post
+title: How to Build Peace: Be Honest
+---
+
 ## How to Build Peace: Be Honest
 _Jacob Lefton, How To Build Up_
 <br />
