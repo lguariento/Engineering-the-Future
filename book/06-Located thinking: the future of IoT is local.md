@@ -9,13 +9,15 @@ When Michelle and I started out thinking about how we could convene people aroun
 
 Our direction emerged from the following values:
 
-●	Diversity is key—diversity in people, in processes and technologies. 
-●	Critically positive framework for reflection
-●	Not having a goal in sight—else we would only deal with things for the now
-●	Celebration of individuality & personal expression, which also equals messiness
-●	Patience with this messiness and chaos
-●	Beauty and celebration 
-●	Clever people who are also nice
+<ul>
+<li>Diversity is key—diversity in people, in processes and technologies. 
+<li>Critically positive framework for reflection
+<li>Not having a goal in sight—else we would only deal with things for the now
+<li>Celebration of individuality & personal expression, which also equals messiness
+<li>Patience with this messiness and chaos
+<li>Beauty and celebration 
+<li>Clever people who are also nice
+</ul>
 
 We are attempting to break away from this business of Silicon Valley and their language of agile prototyping and failing fast. That doesn’t mean anything in our contexts. It is instead about being flexible, adaptive and empathetic where you are working in tune with the people you are with. 
 
