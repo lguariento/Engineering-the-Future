@@ -1,4 +1,4 @@
-![Image: LiveWire, Miebi Sikoki]
+![Image: LiveWire, Miebi Sikoki](images/46.jpg)
 *Image: LiveWire, Miebi Sikoki*
 
 ## LiveWire
