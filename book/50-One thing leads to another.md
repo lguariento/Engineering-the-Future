@@ -17,7 +17,9 @@ Design is an inclusive creative process of expression and communication,”neces
 Creativity is a productive capacity where fantasy and reason are linked and its result is always a
 concrete output. Engineering then use this capability of the design creative process and they learn from each other. In this dialectic and dynamic dialogue, at the centre of it all, there are persons, with their needs and expectations. Bridge the two world is a great opportunity of access and opportunity to innovate for and with community, learn how to work with others as multidisciplinary team and act for a better common ground. When participation and collaboration shared new scenario their are acting in crucial fields of our life. Instead, fantasy is a faculty of the spirit, capable to create imaginative pictures in our mind that could not be realise always in practice. With fantasy we can sleep on a chocolate numb and make everything we want; with creativity we are looking to a synthesis from datas driven from the different insights in the context we observe, to find a comprehensive outputs.
 
-### And other creative process?< br />Design meets art, biology, neuroscience, robotics, music, dance, theatre and performance. <br />At the centre of innovation, still remain the creative process of design.
+### And other creative process?  
+Design meets art, biology, neuroscience, robotics, music, dance, theatre and performance.  
+At the centre of innovation, still remain the creative process of design.
 
 We’re creative animals.
 Feedback are fundamentals for the common voice and intelligence of people to act for good and learn how to work with others and with the community to improve better human conditions and design the life we want. Interact with people is the major challenges of engineering and other creative process as art, dance, music, neuroscience etc., but still remain a matter of survival, to overcome stereotypes and the barrier of specialisation that neoliberalism impose to us in order to control our movements and our life.
