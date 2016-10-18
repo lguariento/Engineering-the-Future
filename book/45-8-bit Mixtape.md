@@ -1,7 +1,9 @@
 ## 8-bit Mixtape
 
 _Andreas Siagian_
-
+<br />
+<br />
+<br />
 8-bit Mixtape is an open source project on building arduino compatible synthesizer using the “Algorithmic symphonies from one line of code”, or more known as “1 line C music”. The project initiated by Marc Dusseiller -dusjagr (CH), Budi Prakosa - manticore, lifepatch.org (ID). and Andreas Siagian - squaresolid, lifepatch.org (ID). from a geeking session at lifepatch Yogyakarta, Indonesia in 2013. It was started as a collaboration to create a pocket-size synthesizer that able to generate and modify “1 line C music” with a simple interface which allowed any user to play it and use it in a live performance.
 
 8-bit Mixtape originally developed using the Babygnusbuino from Anyma, a ridiculously small arduino using ATtiny85. Despite it’s limited functionalities, ATtiny85 was considered suitable for this project. It’s also relatively cheap and reliable for the simple interface of 8-bit Mixtape. Mainly the interface of 8-bit Mixtape is using two potentiometers and two buttons to control live the 1 line C music. 
