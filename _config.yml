@@ -1,7 +1,11 @@
+# Setup
+name:         Project or Site name (Architect Theme)
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
 markdown: kramdown
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
