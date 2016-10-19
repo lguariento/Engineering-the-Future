@@ -1,7 +1,3 @@
----
-title: The future book
----
-
 # Contributions
 
 [Can we engineer the future?](01.html)  
