@@ -1,5 +1,6 @@
 ---
 title: home page
+layout: default
 ---
 
 # Contributions
