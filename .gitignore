@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 _layouts/*
 _config.yml
 fonts/*
@@ -8,3 +9,7 @@ jekyll-architect-theme.gemspec
 params.json
 readme.md
 stylesheets/*
+=======
+
+Gemfile
+>>>>>>> Stashed changes
