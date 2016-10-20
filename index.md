@@ -1,6 +1,5 @@
 ---
-title: home page
-layout: default
+title: Engineering the Future
 ---
 
 # Contributions
@@ -28,5 +27,30 @@ layout: default
 [BioNet](21.html)  
 [Prosthetic Envy](22.html)  
 [Shoreditch, 2012](23.html)  
-[GyroGlove](24.html)  
-[Silk Leaf](25.html)  
+[GyroGlove](24.html) 
+[Silk Leaf](25.html)
+[Divergent Thinking and Meaningful Thinking](26.html)
+[James Watt - a VR encounter with the engineer](27.html)
+[Hacking The Enlightenment – Knowledge exchange through collaborative automata making](28.html)
+[The Craft of Innovation](29.html)
+[Tanglebots](30.html)
+[The Great Steampunk Game Jam](31.html)
+[Continuity, Innovation and Consumption in the Birthplace of the Industrial Revolution](32.html)
+[Artists in the Technosphere](33.html)
+[‘Let’s Talk Bout Business’ and ‘Megacorp’ – examples of artistic anti-fraud activism](34.html)
+[your unerasable text](35.html)
+[From the Machine Room](36.html)
+[Retro Product- Vacuum Cleaner Instrument](37.html)
+[Draw:er //16](38.html)
+[FLASHLIGHTINSTALLATION #1](39.html)
+[The Austrian Cultural Forum London](40.html)
+[Ingenious and Fearless Companions](41.html)
+[Considerations on Michaela Davies](42.html)
+[Theatre of Things](43.html)
+[British Council UK/Indonesia](44.html)
+[8-bit Mixtape](45.html)
+[LiveWire](46.html)
+[Music Making >= Computer Programming](47.html)
+[The V&A Samsung Digital Classroom](48.html)
+[Scan the World](49.html)
+[One thing leads to another.When Design meets Engineering and other Creative Processes.Co-creating transformative learning, innovating through design.](50.html)
