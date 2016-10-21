@@ -451,7 +451,7 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: black;
+  background: black url(../images/bg.jpg) repeat scroll 0 0;
   border-bottom: solid 1px #275da1;
 }
 
