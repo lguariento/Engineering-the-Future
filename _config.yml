@@ -1,0 +1,18 @@
+# Setup
+name:         Engineering the Future
+tagline:      As part of V&A Digital Design Weekend 2016
+baseurl:      ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
