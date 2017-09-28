@@ -16,3 +16,9 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+
+title: Engineering-the-future
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
